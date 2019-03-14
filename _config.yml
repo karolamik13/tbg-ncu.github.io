@@ -92,16 +92,16 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: mailto:jr@fizyka.umk.pl
+#       url: mailto:jr@fizyka.umk.pl
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/jakryd"
+      #       url: "https://twitter.com/jakryd"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://jakryd.github.com/"
+      # url: "https://jakryd.github.com/"
 
 # Site Footer
 footer:
