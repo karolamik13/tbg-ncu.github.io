@@ -8,8 +8,8 @@ description              : "Simulational Physics Group at NCU"
 url                      : "https://jakryd.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jakryd/jakryd.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : # "/assets/images/logo.jpg"
+logo                     : /assets/images/logog.png
 masthead_title           : #" "
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

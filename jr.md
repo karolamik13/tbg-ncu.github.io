@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Members
-permalink: /members/
+title: Dr. Jakub Rydzewski
+permalink: /jr/
 sidebar:
   nav: members
 ---

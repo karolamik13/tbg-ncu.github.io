@@ -7,8 +7,14 @@ main:
     url: /publications/
 
 members:
-  - title: "asdas"
+  - title: "Group Leader"
     children:
-      - title: "AAA"
-        url: /members/
+      - title: "Dr. Jakub Rydzewski"
+        url: /jr/
+  - title: "Students"
+    children:
+      - title: "Kajetan Krzewina"
+        url: /kk/
+      - title: "Aleksander Oskroba"
+        url: /ao/
 
