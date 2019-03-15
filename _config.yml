@@ -9,7 +9,7 @@ url                      : "https://jakryd.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jakryd/jakryd.github.io"
 teaser                   : # "/assets/images/logo.jpg"
-logo                     : /assets/images/logog.png
+logo                     : /assets/images/logo.jpg
 masthead_title           : #" "
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
