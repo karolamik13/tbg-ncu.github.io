@@ -14,4 +14,4 @@ sidebar:
              class="btn btn-default">Code</a>
 </div>
 
-[arXiv](https://arxiv.org/abs/1711.10604){: .btn}
+[arXiv](https://arxiv.org/abs/1711.10604){: .btn .btn-primary}
