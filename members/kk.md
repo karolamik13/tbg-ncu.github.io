@@ -6,6 +6,8 @@ sidebar:
   nav: members
 ---
 
+[Click me](http://www.google.com){: .btn .btn-default}
+{% include button.html url="http://www.google.com" %}
 <button name="button" class="btn btn-default" onclick="http://google.com">arXiv</button>
 
 ### Education
