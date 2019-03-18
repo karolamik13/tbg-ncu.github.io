@@ -5,16 +5,18 @@ main:
     url: /members/
   - title: "Publications"
     url: /publications/
+  - title: "Software"
+    url: /software/
 
 members:
   - title: "Group Leader"
     children:
       - title: "Dr. Jakub Rydzewski"
-        url: /jr/
+        url: /members/jr/
   - title: "Students"
     children:
       - title: "Kajetan Krzewina"
-        url: /kk/
+        url: /members/kk/
       - title: "Aleksander Oskroba"
-        url: /ao/
+        url: /members/ao/
 
