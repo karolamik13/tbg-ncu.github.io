@@ -5,13 +5,18 @@ permalink: /members/kk/
 sidebar:
   nav: members
 ---
-<div class="btn-group-xs">
-             <a href="https://arxiv.org/abs/1711.10604"
-             class="btn btn-default">Paper</a>
-             <a href="/papers/DillonEtAl2018_poster.pdf"
-             class="btn btn-default">Poster</a>
-             <a href="https://github.com/tensorflow/probability"
-             class="btn btn-default">Code</a>
-</div>
 
 [arXiv](https://arxiv.org/abs/1711.10604){: .btn .btn-danger .btn--small}
+
+### Education
+
+Student, Informatics, Nicolaus Copernicus University, Poland, October 2016 to Present  
+Supervisor: Dr. Jakub Rydzewski  
+Thesis: Machine Learning on Data Without Preliminary Cleaning  
+
+### Contact
+
+Kajetan Krzewina  
+Nicolaus Copernicus University  
+Grudziadzka 5, 87-100 Torun  
+Poland  
