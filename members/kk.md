@@ -6,7 +6,7 @@ sidebar:
   nav: members
 ---
 
-<button name="button" class="btn btn-default btn-sm">arXiv</button>
+<button name="button" class="btn btn-default" onclick="http://google.com">arXiv</button>
 
 ### Education
 
