@@ -6,7 +6,7 @@ sidebar:
   nav: members
 ---
 
-<button name="button" class="btn btn-default btn-small">arXiv</button>
+<button name="button" class="btn btn-default btn-sm">arXiv</button>
 
 ### Education
 
