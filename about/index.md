@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## Research
+Research
 --------------------------------------------------------------------------------
 This research focuses on the development and application of biased molecular 
 dynamics techniques for studying soft matter. Main focus is on the development 
@@ -16,7 +16,7 @@ The research is led by Jakub Rydzewski, within the Department of Biophysics and
 Medical Physics at Institute of Physics, Nicolaus Copernicus University in Torun, 
 Poland.
 
-## Funding
+Funding
 --------------------------------------------------------------------------------
 Jakub Rydzewski acknowledges the following funding:
 * Preludium (2015/19/N/ST3/02171)
@@ -27,7 +27,7 @@ Jakub Rydzewski acknowledges the following funding:
   achievements (2016/2017 and 2017/2018) Kuyavian-Pomeranian Voivodeship 
   Marshal (2015/2016)
 
-## Contact
+Contact
 --------------------------------------------------------------------------------
 Talented and motivated students are always welcome to contact Jakub Rydzewski
 (jr@fizyka.umk.pl) to inquire for opportunities to join the group.
