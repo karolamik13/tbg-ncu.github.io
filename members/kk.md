@@ -6,8 +6,8 @@ sidebar:
   nav: members
 ---
 
-[Click me](http://www.google.com){: .btn .btn--success}
-<button name="button" class="btn btn-default" onclick="http://google.com">arXiv</button>
+[Click me](http://www.google.com){: .btn .btn--inverse .btn--small}
+[Click me](http://www.google.com){: .btn .btn--primary .btn--small}
 
 ### Education
 
