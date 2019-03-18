@@ -6,7 +6,7 @@ sidebar:
   nav: members
 ---
 
-<button name="button">Click me</button>
+<button name="button" class="btn btn-default">arXiv</button>
 <a href="#" class="btn btn-success">Success Button</a>
 [arXiv](https://arxiv.org/abs/1711.10604){: .btn .btn-danger .btn--small}
 
