@@ -1,6 +1,4 @@
 main:
-  - title: "About"
-    url: /about/
   - title: "Members"
     url: /members/
   - title: "Publications"
@@ -31,3 +29,13 @@ shortcuts:
         url: /publications/#2019
       - title: "maze Software"
         url: /software/maze/
+  - title: "Links"
+    children:
+      - title: ""
+        links:
+          - label: "Twitter"
+             icon: "fab fa-fw fa-twitter-square"
+              url: "https://twitter.com/JakubRydzewski"
+          - label: "GitHub"
+             icon: "fab fa-fw fa-github"
+              url: "https://github.com/jakryd"
