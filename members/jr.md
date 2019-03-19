@@ -12,18 +12,19 @@ sidebar:
   
 
 ## Scientific Career
-* 2016, Department of Chemistry and Applied Biosciences, Swiss Federal Institute
-  of Technology in Zürich c/o Institute of Computational Science, Università della
-  Svizzera italiana Switzerland  
-  Supervisor: [Prof. Michele Parrinello](http://www.rgp.ethz.ch) 
+* 2016, Supervisor: [Prof. Michele Parrinello](http://www.rgp.ethz.ch)  
+  Department of Chemistry and Applied Biosciences  
+  Swiss Federal Institute of Technology in Zürich  
+  c/o Institute of Computational Science  
+  Università della Svizzera italiana, Switzerland  
 
-* 2016/2017, Department of Theoretical and Computational Biophysics, Max Planck
-  Institute for Biophysical Chemistry, Germany  
-  Supervisor: [Prof. Helmut Grubmüller](https://www.mpibpc.mpg.de/grubmueller) 
-
+* 2016/2017, Supervisor: [Prof. Helmut Grubmüller](https://www.mpibpc.mpg.de/grubmueller)  
+  Department of Theoretical and Computational Biophysics  
+  Max Planck Institute for Biophysical Chemistry, Germany  
+  
 ## Education
-* PhD in Physical Sciences, Nicolaus Copernicus University, Poland, October 2014
-  to June 2018  
+* PhD in Physical Sciences, Nicolaus Copernicus University, Poland  
+  October 2014 to June 2018  
   Thesis: [Rare-Event Sampling of Ligand Transport in Proteins](http://fizyka.umk.pl/~jr/phd.pdf)
 
 ## Contact
