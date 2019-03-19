@@ -2,10 +2,14 @@
 layout: single
 title: Publications
 permalink: /publications/
+toc: true
 ---
 
 Some of our work is available as [preprints on arXiv](https://arxiv.org/a/0000-0003-4325-4177.html).
 
+## 2019
+
+## 2018
 __J. Rydzewski__, and O. Valsson  
 *Finding Multiple Reaction Pathways of Ligand Unbinding*  
 Submitted (2018)  
@@ -21,6 +25,12 @@ __J. Rydzewski__, and W. Nowak
 J. Chem. Phys. 148, 115101 (2018)  
 [DOI](https://doi.org/10.1063/1.5013659){: .btn .btn--inverse .btn--small}
 
+__J. Rydzewski__, R. Jakubowski, G. Nicosia, and W. Nowak  
+*Conformational Sampling of a Biomolecular Rugged Energy Landscape*  
+IEEE/ACM Trans. Comput. Biol. Bioinformatics 15, 732 (2018)  
+[DOI](https://doi.org/10.1109/TCBB.2016.2634008){: .btn .btn--inverse .btn--small}
+
+## 2017
 __J. Rydzewski__, and W. Nowak  
 *Rare-Event Sampling in Ligand Diffusion*  
 Phys. Life Rev. 22-23, 85 (2017)  
@@ -36,11 +46,7 @@ __J. Rydzewski__, and W. Nowak
 Sci. Rep. 7, 7736 (2017)  
 [DOI](https://doi.org/10.1038/s41598-017-07993-0){: .btn .btn--inverse .btn--small}
 
-__J. Rydzewski__, R. Jakubowski, G. Nicosia, and W. Nowak  
-*Conformational Sampling of a Biomolecular Rugged Energy Landscape*  
-IEEE/ACM Trans. Comput. Biol. Bioinformatics 15, 732 (2018)  
-[DOI](https://doi.org/10.1109/TCBB.2016.2634008){: .btn .btn--inverse .btn--small}
-
+## 2016
 __J. Rydzewski__, and W. Nowak  
 *Machine Learning Based Dimensionality Reduction Facilitates Ligand Diffusion Paths Assessment: A Case of Cytochrome P450cam*  
 J. Chem. Theory Comput. 12, 2110 (2016)  
@@ -52,6 +58,7 @@ Handbook of Computational Chemistry (Vol. I)
 Second Edition (2016) (Editior: J. Leszczynski)  
 [DOI](https://doi.org/10.1007/978-94-007-6169-8_49-1){: .btn .btn--inverse .btn--small}
 
+## 2015
 __J. Rydzewski__, W. Nowak, and G. Nicosia  
 *Inferring Pathological States in Cortical Neuron Microcircuits*  
 J. Theor. Biol. 386, 34 (2015)  
