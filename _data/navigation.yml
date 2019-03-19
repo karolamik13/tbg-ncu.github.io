@@ -22,3 +22,12 @@ members:
       - title: "Aleksander Oskroba"
         url: /members/ao/
 
+shortcuts:
+  - title: "Shortcuts"
+    children:
+      - title: "Recent Preprints"
+        url: /publications/preprints/
+      - title: "Recent Publications"
+        url: /publications/
+      - title "`maze` Software"
+        url: /software/maze/
