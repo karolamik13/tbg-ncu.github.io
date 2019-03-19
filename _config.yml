@@ -2,7 +2,7 @@ minimal_mistakes_skin    : "default"
 
 locale                   : "en-US"
 title                    : " "
-title_separator          : "-"
+title_separator          : "|"
 name                     : "Jakub Rydzewski"
 description              : "Simulational Physics Group at NCU"
 url                      : "https://jakryd.github.io"
@@ -95,7 +95,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jakryd"
+      url: "https://twitter.com/JakubRydzewski"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jakryd"
