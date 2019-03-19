@@ -15,11 +15,11 @@ sidebar:
 * 2016, Department of Chemistry and Applied Biosciences, Swiss Federal Institute
   of Technology in Zürich c/o Institute of Computational Science, Università della
   Svizzera italiana Switzerland  
-  Supervisor: Michele Parrinello 
+  Supervisor: [Prof. Michele Parrinello](http://www.rgp.ethz.ch) 
 
 * 2016/2017, Department of Theoretical and Computational Biophysics, Max Planck
   Institute for Biophysical Chemistry, Germany  
-  Supervisor: Helmut Grubmüller 
+  Supervisor: [Prof. Helmut Grubmüller](https://www.mpibpc.mpg.de/grubmueller) 
 
 ## Education
 * PhD in Physical Sciences, Nicolaus Copernicus University, Poland, October 2014
