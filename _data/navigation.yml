@@ -26,8 +26,8 @@ shortcuts:
   - title: "Shortcuts"
     children:
       - title: "Recent Preprints"
-        url: /publications/preprints/#2019/
+        url: /publications/preprints/
       - title: "Recent Publications"
-        url: /publications/
+        url: /publications/#2019
       - title: "maze Software"
         url: /software/maze/
