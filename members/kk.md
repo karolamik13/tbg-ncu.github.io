@@ -6,16 +6,13 @@ sidebar:
   nav: members
 ---
 
-[Click me](http://www.google.com){: .btn .btn--inverse .btn--small}
-[Click me](http://www.google.com){: .btn .btn--primary .btn--small}
-
-### Education
+## Education
 
 Student, Informatics, Nicolaus Copernicus University, Poland, October 2016 to Present  
-Supervisor: Dr. Jakub Rydzewski  
+Supervisor: [Dr. Jakub Rydzewski](/members/jr/)  
 Thesis: Machine Learning on Data Without Preliminary Cleaning  
 
-### Contact
+## Contact
 
 Kajetan Krzewina  
 Nicolaus Copernicus University  

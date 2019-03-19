@@ -6,9 +6,10 @@ sidebar:
   nav: members
 ---
 
-[Google Scholar <link rel="shortcut icon" type="image/x-icon" href="http://scholar.google.com/favicon.ico">](https://scholar.google.pl/citations?user=dEMXOpcAAAAJ&hl=pl)  
-[Orcid](https://orcid.org/0000-0003-4325-4177)  
-[arXiv](https://arxiv.org/a/0000-0003-4325-4177.html)  
+[Google Scholar](https://scholar.google.pl/citations?user=dEMXOpcAAAAJ&hl=pl){: .btn .btn--inverse .btn--small}
+[Orcid](https://orcid.org/0000-0003-4325-4177){: .btn .btn--inverse .btn--small}
+[arXiv](https://arxiv.org/a/0000-0003-4325-4177.html){: .btn .btn--inverse .btn--small}
+  
 
 ## Scientific Career
 * 2016, Department of Chemistry and Applied Biosciences, Swiss Federal Institute

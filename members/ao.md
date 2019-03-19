@@ -6,13 +6,13 @@ sidebar:
   nav: members
 ---
 
-### Education
+## Education
 
 Student, Physics, Nicolaus Copernicus University, Poland, October 2016 to Present  
-Supervisor: Dr. Jakub Rydzewski  
+Supervisor: [Dr. Jakub Rydzewski](/members/jr/)  
 Thesis: Sampling Ligand-Protein Dissociation Processes  
 
-### Contact
+## Contact
 
 Aleksander Oskroba  
 Nicolaus Copernicus University  
