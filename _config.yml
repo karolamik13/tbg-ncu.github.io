@@ -86,22 +86,19 @@ analytics:
 author:
   name             : "Jakub Rydzewski"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
+  bio              : "Simulational Physics Group at NCU"
   location         : "NCU, Poland"
   email            : jr@fizyka.umk.pl
   links:
-    - label: "Made Mistakes"
+    - label: "Institute of Physics, NCU"
       icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
+      url: "https://www.ifiz.umk.pl/en/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
+      url: "https://twitter.com/JakubRydzewski"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://github.com/jakryd"
 
 # Site Footer
 footer:
