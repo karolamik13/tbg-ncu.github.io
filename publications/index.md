@@ -5,8 +5,6 @@ permalink: /publications/
 toc: true
 ---
 
-Some of our work is available as [preprints on arXiv](https://arxiv.org/a/0000-0003-4325-4177.html).
-
 ## 2019
 
 ## 2018
@@ -14,6 +12,7 @@ __J. Rydzewski__, and O. Valsson
 *Finding Multiple Reaction Pathways of Ligand Unbinding*  
 Submitted (2018)  
 [arXiv](https://arxiv.org/abs/1808.08089){: .btn .btn--inverse .btn--small}
+[Github](https://github.com/maze-code/plumed2-maze){: .btn .btn--inverse .btn--small}
 
 __J. Rydzewski__, R. Jakubowski, W. Nowak, and H. Grubmüller  
 *Kinetics of Huperzine A Dissociation from Acetylcholinesterase via Multiple Unbinding Pathways*  
