@@ -3,6 +3,9 @@ layout: single
 title: Publications
 permalink: /publications/
 toc: true
+author_profile: true
+sidebar:
+  nav: shortcuts
 ---
 
 ## 2019
