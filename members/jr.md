@@ -6,6 +6,8 @@ sidebar:
   nav: members
 ---
 
+![image](/assets/images/jr.png){: .center-image, height="10%" width="10%"}
+
 [Google Scholar](https://scholar.google.pl/citations?user=dEMXOpcAAAAJ&hl=pl){: .btn .btn--inverse .btn--small}
 [Orcid](https://orcid.org/0000-0003-4325-4177){: .btn .btn--inverse .btn--small}
 [arXiv](https://arxiv.org/a/0000-0003-4325-4177.html){: .btn .btn--inverse .btn--small}
@@ -25,7 +27,7 @@ sidebar:
 ## Education
 * PhD in Physical Sciences, Nicolaus Copernicus University, Poland  
   October 2014 to June 2018  
-  Thesis: [Rare-Event Sampling of Ligand Transport in Proteins](/publications/Rydzewski_2018_PhD.pdf)
+  Thesis: [Rare-Event Sampling of Ligand Transport in Proteins](/assets/pubs/Rydzewski_2018_PhD.pdf)
 
 ## Contact
 Jakub Rydzewski  

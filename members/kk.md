@@ -6,6 +6,8 @@ sidebar:
   nav: members
 ---
 
+![image](/assets/images/kk.png){: .center-image, height="10%" width="10%"}
+
 ## Education
 
 Student, Informatics, Nicolaus Copernicus University, Poland, October 2016 to Present  
