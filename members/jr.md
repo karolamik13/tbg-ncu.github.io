@@ -25,7 +25,7 @@ sidebar:
 ## Education
 * PhD in Physical Sciences, Nicolaus Copernicus University, Poland  
   October 2014 to June 2018  
-  Thesis: [Rare-Event Sampling of Ligand Transport in Proteins](http://fizyka.umk.pl/~jr/phd.pdf)
+  Thesis: [Rare-Event Sampling of Ligand Transport in Proteins](/publications/Rydzewski_2018_PhD.pdf)
 
 ## Contact
 Jakub Rydzewski  
