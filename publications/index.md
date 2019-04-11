@@ -9,6 +9,11 @@ sidebar:
 ---
 
 ## 2019
+__J. Rydzewski__  
+*maze: Heterogeneous Ligand Unbinding along Transient Protein Tunnels*  
+Submitted (2019)  
+[arXiv](https://arxiv.org/abs/1904.03929){: .btn .btn--inverse .btn--small}
+[Github](https://github.com/maze-code/plumed2-maze){: .btn .btn--inverse .btn--small}
 
 ## 2018
 __J. Rydzewski__, and O. Valsson  

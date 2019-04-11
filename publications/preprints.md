@@ -8,7 +8,7 @@ toc: true
 Some of our work is available as [preprints on arXiv](https://arxiv.org/a/0000-0003-4325-4177.html).
 
 ## 2019
-__J. Rydzewski__
+__J. Rydzewski__  
 *maze: Heterogeneous Ligand Unbinding along Transient Protein Tunnels*  
 Submitted (2019)  
 [arXiv](https://arxiv.org/abs/1904.03929){: .btn .btn--inverse .btn--small}
