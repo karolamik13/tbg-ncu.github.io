@@ -19,10 +19,14 @@ members:
         url: /members/kk/
       - title: "Aleksander Oskroba"
         url: /members/ao/
+      - title: "Aleksandra Warmbier"
+        url: /members/aw/
 
 shortcuts:
   - title: "Shortcuts"
     children:
+      - title: "Recent Posts"
+        url: /recent/
       - title: "Recent Preprints"
         url: /publications/preprints/
       - title: "Recent Publications"

@@ -10,7 +10,7 @@ sidebar:
 
 ## Education
 
-Student, Physics, Nicolaus Copernicus University, Poland, October 2016 to Present  
+Student, Physics, Nicolaus Copernicus University, Poland, October 2015 to Present  
 Supervisor: [Dr. Jakub Rydzewski](/members/jr/)  
 Thesis: Sampling Ligand-Protein Dissociation Processes  
 
