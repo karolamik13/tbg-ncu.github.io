@@ -26,7 +26,7 @@ __J. Rydzewski__, R. Jakubowski, W. Nowak, and H. Grubmüller
 *Kinetics of Huperzine A Dissociation from Acetylcholinesterase via Multiple Unbinding Pathways*  
 J. Chem. Theory Comput. 14, 2843 (2018)  
 [DOI](https://doi.org/10.1021/acs.jctc.8b00173){: .btn .btn--inverse .btn--small}
-[SI](https://figshare.com/articles/Kinetics_of_Huperzine_A_Dissociation_from_Acetylcholinesterase_via_Multiple_Unbinding_Pathways/6333965){: .btn .btn--inverse .btn--small}
+[Figshare](https://figshare.com/articles/Kinetics_of_Huperzine_A_Dissociation_from_Acetylcholinesterase_via_Multiple_Unbinding_Pathways/6333965){: .btn .btn--inverse .btn--small}
 
 __J. Rydzewski__, and W. Nowak  
 *Photoinduced Transport in an H64Q Neuroglobin Antidote for Carbon Monoxide Poisoning*  
@@ -59,7 +59,7 @@ __J. Rydzewski__, and W. Nowak
 *Machine Learning Based Dimensionality Reduction Facilitates Ligand Diffusion Paths Assessment: A Case of Cytochrome P450cam*  
 J. Chem. Theory Comput. 12, 2110 (2016)  
 [DOI](https://doi.org/10.1021/acs.jctc.6b00212){: .btn .btn--inverse .btn--small}
-[SI](https://figshare.com/articles/Machine_Learning_Based_Dimensionality_Reduction_Facilitates_Ligand_Diffusion_Paths_Assessment_A_Case_of_Cytochrome_P450cam/3125365){: .btn .btn--inverse .btn--small}
+[Figshare](https://figshare.com/articles/Machine_Learning_Based_Dimensionality_Reduction_Facilitates_Ligand_Diffusion_Paths_Assessment_A_Case_of_Cytochrome_P450cam/3125365){: .btn .btn--inverse .btn--small}
 
 __J. Rydzewski__, and W. Nowak  
 *Molecular Dynamics Simulations of Large Systems in Electronic Excited States*  
