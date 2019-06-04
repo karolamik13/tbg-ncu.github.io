@@ -9,6 +9,12 @@ sidebar:
 ---
 
 ## 2019
+J. F. Carrascoza Mayén, __J. Rydzewski__, N. Szostak, J. Blazewicz, and W. Nowak  
+*Prebiotic Soup Components Trapped in Montmorillonite Nanoclay Form New Molecules: Car-Parrinello Ab Initio Simulations*  
+Life 9, 46 (2019)  
+[Special Issue The Origin and Early Evolution of Life: Prebiotic Chemistry of Biomolecules](https://www.mdpi.com/journal/life/special_issues/Prebiotic_Chemistry)  
+[DOI](https://doi.org/10.3390/life9020046){: .btn .btn--inverse .btn--small}
+
 __J. Rydzewski__  
 *maze: Heterogeneous Ligand Unbinding along Transient Protein Tunnels*  
 Submitted (2019)  
