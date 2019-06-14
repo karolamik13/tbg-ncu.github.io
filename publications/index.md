@@ -9,6 +9,13 @@ sidebar:
 ---
 
 ## 2019
+__J. Rydzewski__, and O. Valsson  
+Communication: *Finding Multiple Reaction Pathways of Ligand Unbinding*  
+J. Chem. Phys. 150, 221101 (2019)  
+[DOI](https://doi.org/){: .btn .btn--inverse .btn--small}
+[arXiv](https://arxiv.org/abs/1808.08089){: .btn .btn--inverse .btn--small}
+[Github](https://github.com/maze-code/plumed2-maze){: .btn .btn--inverse .btn--small}
+
 J. F. Carrascoza Mayén, __J. Rydzewski__, N. Szostak, J. Blazewicz, and W. Nowak  
 *Prebiotic Soup Components Trapped in Montmorillonite Nanoclay Form New Molecules: Car-Parrinello Ab Initio Simulations*  
 Life 9, 46 (2019)  
@@ -22,12 +29,6 @@ Submitted (2019)
 [Github](https://github.com/maze-code/plumed2-maze){: .btn .btn--inverse .btn--small}
 
 ## 2018
-__J. Rydzewski__, and O. Valsson  
-*Finding Multiple Reaction Pathways of Ligand Unbinding*  
-Submitted (2018)  
-[arXiv](https://arxiv.org/abs/1808.08089){: .btn .btn--inverse .btn--small}
-[Github](https://github.com/maze-code/plumed2-maze){: .btn .btn--inverse .btn--small}
-
 __J. Rydzewski__, R. Jakubowski, W. Nowak, and H. Grubmüller  
 *Kinetics of Huperzine A Dissociation from Acetylcholinesterase via Multiple Unbinding Pathways*  
 J. Chem. Theory Comput. 14, 2843 (2018)  
