@@ -12,7 +12,7 @@ sidebar:
 __J. Rydzewski__, and O. Valsson  
 Communication: *Finding Multiple Reaction Pathways of Ligand Unbinding*  
 J. Chem. Phys. 150, 221101 (2019)  
-[DOI](https://doi.org/){: .btn .btn--inverse .btn--small}
+[DOI](https://doi.org/10.1063/1.5108638){: .btn .btn--inverse .btn--small}
 [arXiv](https://arxiv.org/abs/1808.08089){: .btn .btn--inverse .btn--small}
 [Github](https://github.com/maze-code/plumed2-maze){: .btn .btn--inverse .btn--small}
 
