@@ -9,6 +9,10 @@ sidebar:
 ---
 
 ## 2019
+[The PLUMED Consortium](https://www.plumed-nest.org/consortium.html)  
+*A Community Effort to Promote Transparency and Reproducibility in Enhanced Molecular Simulations*
+Nat. Methods (2019)  
+
 __J. Rydzewski__, and O. Valsson  
 Communication: *Finding Multiple Reaction Pathways of Ligand Unbinding*  
 J. Chem. Phys. 150, 221101 (2019)  
