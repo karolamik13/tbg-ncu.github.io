@@ -11,7 +11,7 @@ sidebar:
 ## 2019
 __J. Rydzewski__  
 *maze: Heterogeneous Ligand Unbinding along Transient Protein Tunnels*  
-Comp. Phys. Commun. 106865 (2019)
+Comp. Phys. Commun. 106865 (2019)  
 [DOI](https://doi.org/10.1016/j.cpc.2019.106865){: .btn .btn--inverse .btn--small}
 [arXiv](https://arxiv.org/abs/1904.03929){: .btn .btn--inverse .btn--small}
 [Github](https://github.com/maze-code/plumed2-maze){: .btn .btn--inverse .btn--small}
@@ -42,6 +42,7 @@ __J. Rydzewski__, R. Jakubowski, W. Nowak, and H. Grubmüller
 J. Chem. Theory Comput. 14, 2843 (2018)  
 [DOI](https://doi.org/10.1021/acs.jctc.8b00173){: .btn .btn--inverse .btn--small}
 [Figshare](https://figshare.com/articles/Kinetics_of_Huperzine_A_Dissociation_from_Acetylcholinesterase_via_Multiple_Unbinding_Pathways/6333965){: .btn .btn--inverse .btn--small}
+[plumID:19.067](https://www.plumed-nest.org/eggs/19/067/){: .btn .btn--inverse .btn--small}
 
 __J. Rydzewski__, and W. Nowak  
 *Photoinduced Transport in an H64Q Neuroglobin Antidote for Carbon Monoxide Poisoning*  
