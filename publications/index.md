@@ -11,7 +11,8 @@ sidebar:
 ## 2019
 __J. Rydzewski__  
 *maze: Heterogeneous Ligand Unbinding along Transient Protein Tunnels*  
-Comp. Phys. Commun. (2019)  
+Comp. Phys. Commun. 106865 (2019)
+[DOI](https://doi.org/10.1016/j.cpc.2019.106865){: .btn .btn--inverse .btn--small}
 [arXiv](https://arxiv.org/abs/1904.03929){: .btn .btn--inverse .btn--small}
 [Github](https://github.com/maze-code/plumed2-maze){: .btn .btn--inverse .btn--small}
 [plumID:19.056](https://www.plumed-nest.org/eggs/19/056/){: .btn .btn--inverse .btn--small}  
@@ -27,6 +28,7 @@ J. Chem. Phys. 150, 221101 (2019)
 [DOI](https://doi.org/10.1063/1.5108638){: .btn .btn--inverse .btn--small}
 [arXiv](https://arxiv.org/abs/1808.08089){: .btn .btn--inverse .btn--small}
 [Github](https://github.com/maze-code/plumed2-maze){: .btn .btn--inverse .btn--small}
+[plumID:19.066](https://www.plumed-nest.org/eggs/19/066/){: .btn .btn--inverse .btn--small}
 
 J. F. Carrascoza Mayén, __J. Rydzewski__, N. Szostak, J. Blazewicz, and W. Nowak  
 *Prebiotic Soup Components Trapped in Montmorillonite Nanoclay Form New Molecules: Car-Parrinello Ab Initio Simulations*  
