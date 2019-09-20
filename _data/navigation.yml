@@ -13,23 +13,25 @@ members:
         url: /members/jr/
   - title: "Students"
     children:
+      - title: "Sylwia Czach"
+        url: /members/sc/
       - title: "Kajetan Krzewina"
         url: /members/kk/
       - title: "Aleksander Oskroba"
         url: /members/ao/
       - title: "Aleksandra Warmbier"
         url: /members/aw/
-      - title: "Sylwia Czach"
-        url: /members/sc/
 
 shortcuts:
   - title: "Shortcuts"
     children:
-      - title: "Recent Posts"
-        url: /recent/
       - title: "Recent Publications"
         url: /publications/#2019
-      - title: "maze Software"
+      - title: "MAZE"
         url: /software/#maze
+      - title: "Posters"
+        url: https://github.com/jakryd/posters/
+      - title: "PLUMED Eggs"
+        url: https://github.com/jakryd/plumed-eggs/
       - title: "The PLUMED Consortium"
         url: https://www.plumed-nest.org/
