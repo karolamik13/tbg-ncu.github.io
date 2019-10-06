@@ -3,6 +3,8 @@ main:
     url: /members/
   - title: "Publications"
     url: /publications/
+  - title: "Funding"
+    url: /funding/
   - title: "Software"
     url: /software/
 
@@ -11,6 +13,10 @@ members:
     children:
       - title: "Dr. Jakub Rydzewski"
         url: /members/jr/
+  - title: "PhD Students"
+    children:
+      - title: "Adam S. Grzonkowski"
+        url: /members/asg
   - title: "Students"
     children:
       - title: "Sylwia Czach"

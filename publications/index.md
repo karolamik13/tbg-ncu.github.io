@@ -10,6 +10,11 @@ sidebar:
 
 ## 2019
 __J. Rydzewski__  
+*Machine Learning for Enhanced Sampling Methods* (in Polish)  
+Głos Uczelni UMK 77, 7--10 (2019)  
+[PDF](/publications/GU_2019-07-10_jr.pdf){: .btn .btn--inverse .btn--small}  
+
+__J. Rydzewski__  
 *maze: Heterogeneous Ligand Unbinding along Transient Protein Tunnels*  
 Comp. Phys. Commun. 106865 (2019)  
 [DOI](https://doi.org/10.1016/j.cpc.2019.106865){: .btn .btn--inverse .btn--small}
