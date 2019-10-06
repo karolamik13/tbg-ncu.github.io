@@ -6,9 +6,6 @@ author_profile: true
 sidebar:
   nav: shortcuts
 ---
-
-## Funding
-
 Jakub Rydzewski acknowledges the following funding:
 * START FNP 2019 -- Foundation for Polish Science stipend for talented 
   researchers under age 30;
