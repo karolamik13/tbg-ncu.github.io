@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Jakub Rydzewski"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Simulational Physics Group at NCU"
+  bio              : "Computational Physics Group at NCU"
   location         : "NCU, Poland"
   email            : jr@fizyka.umk.pl
   links:
