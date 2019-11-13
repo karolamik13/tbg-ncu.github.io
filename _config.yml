@@ -2,7 +2,7 @@ minimal_mistakes_skin    : "default"
 
 locale                   : "en-US"
 title                    : " "
-title_separator          : "|"
+title_separator          : " "
 name                     : "Jakub Rydzewski"
 description              : "Computational Physics Group at NCU"
 url                      : "https://jakryd.github.io"
@@ -87,7 +87,7 @@ author:
   name             : "Jakub Rydzewski"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computational Physics Group at NCU"
-  location         : "NCU, Poland"
+  location         : "NCU, Toruń, Poland"
   email            : jr@fizyka.umk.pl
   links:
     - label: "Institute of Physics, NCU"
@@ -102,6 +102,9 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.pl/citations?user=dEMXOpcAAAAJ&hl=en"
+    - label: "Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url: "https://t.me/jakryd"
 
 # Site Footer
 footer:
@@ -112,6 +115,12 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jakryd"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.pl/citations?user=dEMXOpcAAAAJ&hl=en"
+    - label: "Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url: "https://t.me/jakryd"
 
 # Reading Files
 include:
