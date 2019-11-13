@@ -118,9 +118,6 @@ footer:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.pl/citations?user=dEMXOpcAAAAJ&hl=en"
-    - label: "Telegram"
-      icon: "fab fa-fw fa-telegram"
-      url: "https://t.me/jakryd"
 
 # Reading Files
 include:
