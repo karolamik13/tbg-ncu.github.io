@@ -1,6 +1,7 @@
 ---
 layout: home
 author_profile: true
+title: Research
 toc: true
 sidebar:
   nav: shortcuts

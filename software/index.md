@@ -12,7 +12,6 @@ sidebar:
 
 ### Information
 
-__J. Rydzewski__   
 `maze` (version 1.0)  
 *Heterogeneous Ligand Unbinding along Transient Protein Tunnels*  
 [Github](https://github.com/maze-code/plumed2-maze){: .btn .btn--inverse .btn--small}
@@ -20,9 +19,9 @@ __J. Rydzewski__
 [arXiv](https://arxiv.org/abs/1808.08089){: .btn .btn--inverse .btn--small}
 
 `MAZE` is a code that implements enhanced sampling methods for sampling the 
-reaction pathways of ligand unbinding. It is made as a module for [Plumed
-2](https://plumed.github.io/doc-v2.5/user-doc/html/index.html), an engine for 
-free energy calculations of atomistic systems.
+reaction pathways of ligand unbinding. It is made as a module for [PLUMED2]
+(https://plumed.github.io/doc-v2.5/user-doc/html/index.html), an engine for 
+free energy calculations of atomistic systems and enhanced sampling.
 
 ### Download and Install
 
