@@ -2,9 +2,22 @@
 layout: single
 title: Members
 permalink: /members/
+toc: true
 sidebar:
   nav: members
 ---
+
+## Group Leader
+
+Dr. Jakub Rydzewski
+
+## Students
+
+Adam S. Grzonkowski  
+Sylwia Czach  
+Kajetan Krzewina  
+Aleksander Oskroba  
+Ola Warmbier
 
 ## Openings
 

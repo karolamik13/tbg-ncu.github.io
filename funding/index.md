@@ -7,7 +7,7 @@ sidebar:
   nav: shortcuts
 ---
 Jakub Rydzewski acknowledges the following funding:
-* NAWA Promocja Zagraniczna 2019 -- *Open Source, Open Science*;
+* NAWA Promocja Zagraniczna 2019 -- [*Open Source, Open Science*](https://open-ncu.github.io);
 * START FNP 2019 -- Foundation for Polish Science stipend for talented 
   researchers under age 30;
 * Ministry of Science and Higher Education -- PhD scholarship for outstanding 
