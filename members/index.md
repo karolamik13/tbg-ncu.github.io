@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Members
+title: Research Group
 permalink: /members/
 toc: true
 sidebar:

@@ -2,15 +2,13 @@
 layout: single
 title: Dr. Jakub Rydzewski
 permalink: /members/jr/
+toc: true
 sidebar:
   nav: members
 ---
 
 ![image](/assets/images/jr.png){: .center-image, height="10%" width="10%"}
 
-[Google Scholar](https://scholar.google.pl/citations?user=dEMXOpcAAAAJ&hl=pl){: .btn .btn--inverse .btn--small}
-[Orcid](https://orcid.org/0000-0003-4325-4177){: .btn .btn--inverse .btn--small}
-[arXiv](https://arxiv.org/a/0000-0003-4325-4177.html){: .btn .btn--inverse .btn--small}
   
 
 ## Scientific Career
