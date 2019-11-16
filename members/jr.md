@@ -13,8 +13,6 @@ Dr. Jakub Rydzewski
 ===================
 
 Contact
--------
-
 :   Institute of Physics  
     Nicolaus Copernicus University  
     Grudziadzka 5, 87-100  
@@ -43,7 +41,7 @@ Since 2019
     Computational Science, Università della Svizzera italiana, Switzerland,
     the group of [Prof. Michele Parrinello](http://www.rgp.ethz.ch)
 
-2016-2017, 
+2016-2017
 :   *Researcher* at the Department of Theoretical and Computational Biophysics,
     Max Planck Institute for Biophysical Chemistry, Germany,
     the group of [Prof. Helmut Grubmüller](https://www.mpibpc.mpg.de/grubmueller)  
@@ -60,4 +58,5 @@ Education
 Interests
 ---------
 
-:   Literature: William Gaddis
+Literature
+:   William Gaddis
