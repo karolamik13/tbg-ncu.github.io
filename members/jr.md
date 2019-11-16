@@ -9,19 +9,20 @@ sidebar:
 
 ![image](/assets/images/jr.png){: .center-image, height="10%" width="10%"}
 
-Jakub Rydzewski
-===============
+Dr. Jakub Rydzewski
+===================
 
-----
+Contact
+-------
 
-> Institute of Physics, Nicolaus Copernicus University, Grudziadzka 5, 87-100 
-> Toruń, Poland  
->
-> E-mail: jr@fizyka.umk.pl  
-> Phone: +48 56 611 3346  
-> Office: 573  
+:   Institute of Physics  
+    Nicolaus Copernicus University  
+    Grudziadzka 5, 87-100  
+    Toruń, Poland  
 
-----
+    E-mail: jr@fizyka.umk.pl  
+    Phone: +48 56 611 3346  
+    Office: 573  
 
 Scientific Career
 -----------------
@@ -56,10 +57,7 @@ Education
     Thesis: [Rare-Event Sampling of Ligand Transport in 
     Proteins](/assets/pubs/Rydzewski_2018_PhD.pdf)
 
-Hobbies
--------
-
 Interests
-:   Literature
+---------
 
-    William Gaddis
+:   Literature: William Gaddis
