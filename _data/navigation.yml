@@ -25,7 +25,7 @@ members:
         url: /members/kk/
       - title: "Aleksander Oskroba"
         url: /members/ao/
-      - title: "Aleksandra Warmbier"
+      - title: "Ola Warmbier"
         url: /members/aw/
 
 shortcuts:
@@ -33,7 +33,7 @@ shortcuts:
     children:
       - title: "Recent Publications"
         url: /publications/#2019
-      - title: "MAZE"
+      - title: "MAZE Code"
         url: /software/#maze
       - title: "Posters"
         url: https://github.com/jakryd/posters/
@@ -41,3 +41,5 @@ shortcuts:
         url: https://github.com/jakryd/plumed-eggs/
       - title: "The PLUMED Consortium"
         url: https://www.plumed-nest.org/
+      - title: "Open NCU"
+        url: https://open-ncu.github.io/
