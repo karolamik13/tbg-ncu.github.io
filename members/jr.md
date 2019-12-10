@@ -16,7 +16,7 @@ Contact
 :   Institute of Physics, Nicolaus Copernicus University  
     Grudziadzka 5, 87-100 Toruń, Poland  
 
-    E-mail: jr@fizyka.umk.pl, jakub.rydzewski@mailfence.com  
+    E-mail: jr@fizyka.umk.pl, jakubrydzewski@pm.me  
     Phone: +48 56 611 3346  
     Office: 573  
 

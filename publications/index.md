@@ -8,19 +8,20 @@ sidebar:
   nav: shortcuts
 ---
 
+## 2020
+__J. Rydzewski__  
+*maze: Heterogeneous Ligand Unbinding along Transient Protein Tunnels*  
+Comp. Phys. Commun. 247, 106865 (2020)  
+[DOI](https://doi.org/10.1016/j.cpc.2019.106865){: .btn .btn--inverse .btn--small}
+[arXiv](https://arxiv.org/abs/1904.03929){: .btn .btn--inverse .btn--small}
+[Github](https://github.com/maze-code/plumed2-maze){: .btn .btn--inverse .btn--small}
+[plumID:19.056](https://www.plumed-nest.org/eggs/19/056/){: .btn .btn--inverse .btn--small}  
+
 ## 2019
 __J. Rydzewski__  
 *Machine Learning for Enhanced Sampling Methods* (in Polish)  
 Głos Uczelni UMK 77, 7--10 (2019)  
 [PDF](/publications/GU_2019-07-10_jr.pdf){: .btn .btn--inverse .btn--small}  
-
-__J. Rydzewski__  
-*maze: Heterogeneous Ligand Unbinding along Transient Protein Tunnels*  
-Comp. Phys. Commun. 106865 (2019)  
-[DOI](https://doi.org/10.1016/j.cpc.2019.106865){: .btn .btn--inverse .btn--small}
-[arXiv](https://arxiv.org/abs/1904.03929){: .btn .btn--inverse .btn--small}
-[Github](https://github.com/maze-code/plumed2-maze){: .btn .btn--inverse .btn--small}
-[plumID:19.056](https://www.plumed-nest.org/eggs/19/056/){: .btn .btn--inverse .btn--small}  
 
 [The PLUMED Consortium](https://www.plumed-nest.org/consortium.html)  
 *Promoting Transparency and Reproducibility in Enhanced Molecular Simulations*  
