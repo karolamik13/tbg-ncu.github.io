@@ -9,8 +9,8 @@ url                      : "https://jakryd.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jakryd/jakryd.github.io"
 teaser                   : # "/assets/images/logo.jpg"
-logo                     : /assets/images/umk.jpeg
-masthead_title           : " "
+logo                     : #/assets/images/umk.jpeg
+masthead_title           : "Computational Physics"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
