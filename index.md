@@ -17,6 +17,8 @@ Our research lies at the intersection of physics, simulation methods and machine
 learning. We often build on insights that originated within the statistical
 physics literature.
 
+![a](assets/images/fig-1.png)
+
 Some of our recent research interests include:
 * Representation learning with physical meaning;
 * Enhanced sampling methods with unsupervised learning of collective variables;

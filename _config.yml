@@ -1,8 +1,8 @@
 minimal_mistakes_skin    : "default" 
 
 locale                   : "en-US"
-title                    : "jakryd.github.io"
-title_separator          : "|"
+title                    : "eigen"
+title_separator          : ">"
 name                     : "Jakub Rydzewski"
 description              : "Computational Physics Group at NCU"
 url                      : "https://jakryd.github.io"

@@ -21,7 +21,7 @@ Comp. Phys. Commun. 247, 106865 (2020)
 __J. Rydzewski__  
 *Machine Learning for Enhanced Sampling Methods* (in Polish)  
 Głos Uczelni UMK 77, 7--10 (2019)  
-[PDF](/publications/GU_2019-07-10_jr.pdf){: .btn .btn--inverse .btn--small}  
+[PDF](/assets/pubs/GU_2019-07-10_jr.pdf){: .btn .btn--inverse .btn--small}  
 
 [The PLUMED Consortium](https://www.plumed-nest.org/consortium.html)  
 *Promoting Transparency and Reproducibility in Enhanced Molecular Simulations*  
