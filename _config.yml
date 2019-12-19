@@ -6,44 +6,30 @@ title_separator          : ">"
 name                     : "Jakub Rydzewski"
 description              : "Computational Physics Group at NCU"
 url                      : "https://jakryd.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jakryd/jakryd.github.io"
 teaser                   : # "/assets/images/logo.jpg"
 logo                     : #/assets/images/umk.jpeg
 masthead_title           : "Computational Physics"
-# breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
-  disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : 5
-    colorscheme          : "light"
-  utterances:
-    theme                : "github-light"
-    issue_term           : # "pathname" (default)
+  provider               : staticman
 staticman:
-  allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : # "master"
-  commitMessage          : # "New comment by {fields.name}"
-  filename               : # comment-{@timestamp}
-  format                 : # "yml"
-  moderation             : # true
-  path                   : # "/_data/comments/{options.slug}" (default)
-  requiredFields         : # ['name', 'email', 'message']
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : "master"
+  commitMessage          : "New comment by {fields.name}"
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "/_data/comments/{options.slug}"
+  requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : # "md5"
+    email                : "md5"
   generatedFields:
     date:
-      type               : # "date"
+      type               : "date"
       options:
-        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-  endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
+        format           : "timestamp-seconds"
+  endpoint               : 
 reCaptcha:
   siteKey                :
   secret                 :
@@ -259,6 +245,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
