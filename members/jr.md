@@ -53,6 +53,12 @@ Education
     Thesis: [Rare-Event Sampling of Ligand Transport in 
     Proteins](/assets/pubs/Rydzewski_2018_PhD.pdf)
 
+Reviewing
+---------
+
+Scientific articles
+:   J. Phys. Chem. Lett., PLoS Comput. Biol., JOSA B, IEEE, Journal of Molecular Graphics and Modell
+
 Interests
 ---------
 

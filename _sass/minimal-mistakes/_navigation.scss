@@ -71,12 +71,12 @@
 
     a {
       display: block;
-      margin-bottom: 0.25em;
+      margin-bottom: 0.0em;
       padding: 0.5em 1em;
       font-family: $sans-serif;
       font-size: 10px;
       font-weight: bold;
-      line-height: 1.5;
+      line-height: 0;
       text-align: center;
       text-decoration: none;
       color: $muted-text-color;
@@ -85,6 +85,7 @@
 
       &:hover {
         color: $link-color-hover;
+        text-decoration: none;
       }
 
       &.current,
@@ -424,7 +425,7 @@
       }
 
       &:hover {
-        text-decoration: underline;
+        text-decoration: none;
       }
     }
   }
@@ -535,8 +536,8 @@
     padding: 0.25rem 0.75rem;
     color: $muted-text-color;
     font-weight: bold;
-    line-height: 1.5;
-    border-bottom: 1px solid $border-color;
+//    line-height: 1.5;
+//    border-bottom: 1px solid $border-color;
 
     &:hover {
       color: $text-color;

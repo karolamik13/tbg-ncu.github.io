@@ -9,6 +9,11 @@ sidebar:
 ---
 
 ## 2020
+__J. Rydzewski__, and O. Valsson  
+*Multiscale reweighted stochastic embedding (MRSE): Deep learning of collective variables for enhanced sampling*  
+Submitted (2020)  
+[arXiv](https://arxiv.org/abs/2007.06377){: .btn .btn--inverse .btn--small}
+
 __J. Rydzewski__  
 *maze: Heterogeneous Ligand Unbinding along Transient Protein Tunnels*  
 Comp. Phys. Commun. 247, 106865 (2020)  
