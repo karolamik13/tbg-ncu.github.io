@@ -6,13 +6,11 @@ sidebar:
   nav: members
 ---
 
-![image](/assets/images/kk.png){: .center-image, height="10%" width="10%"}
-
 ## Education
 
 Student, Informatics, Nicolaus Copernicus University, Poland, October 2016 to Present  
 Supervisor: [Dr. Jakub Rydzewski](/members/jr/)  
-Thesis: Machine Learning on Data Without Preliminary Cleaning  
+Thesis: *Machine learning on data without preliminary cleaning*  
 
 ## Contact
 

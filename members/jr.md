@@ -7,8 +7,6 @@ sidebar:
   nav: members
 ---
 
-![image](/assets/images/jr.png){: .center-image, height="10%" width="10%"}
-
 Dr. Jakub Rydzewski
 ===================
 
@@ -57,7 +55,7 @@ Reviewing
 ---------
 
 Scientific articles
-:   J. Phys. Chem. Lett., PLoS Comput. Biol., JOSA B, IEEE, Journal of Molecular Graphics and Modell
+:   J. Phys. Chem. Lett., PLoS Comput. Biol., JOSA B, IEEE, Journal of Molecular Graphics and Modelling 
 
 Interests
 ---------

@@ -13,7 +13,7 @@ Dr. Jakub Rydzewski
 
 ## Students
 
-Adam S. Grzonkowski  
+Wojtek Amtmański
 Sylwia Czach  
 Kajetan Krzewina  
 Aleksander Oskroba  

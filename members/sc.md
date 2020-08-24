@@ -6,8 +6,6 @@ sidebar:
   nav: members
 ---
 
-![image](/assets/images/sc.png){: .center-image, height="10%" width="10%"}
-
 ## Education
 
 Student, Biotechnology & Physics, Nicolaus Copernicus University, Poland, October 2017 to Present  
