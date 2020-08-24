@@ -8,8 +8,8 @@ description              : "Developing enhanced sampling methods"
 url                      : "https://jakryd.github.io"
 repository               : "jakryd/jakryd.github.io"
 teaser                   : # "/assets/images/logo.jpg"
-logo                     : /assets/images/umk.jpeg
-masthead_title           : ""#"Rydzewski Group"
+logo                     : /assets/images/umk.png
+masthead_title           : "" #"Rydzewski Group"
 words_per_minute         : 200
 comments:
   provider               : staticman
