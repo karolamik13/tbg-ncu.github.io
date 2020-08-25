@@ -3,8 +3,8 @@ minimal_mistakes_skin    : "default"
 locale                   : "en-US"
 title                    : ""
 title_separator          : ""
-name                     : "Rydzewski Group"
-description              : "Developing enhanced sampling methods"
+name                     : ""
+description              : ""
 url                      : "https://jakryd.github.io"
 repository               : "jakryd/jakryd.github.io"
 teaser                   : # "/assets/images/logo.jpg"
@@ -71,7 +71,7 @@ analytics:
 # Site Author
 author:
   name             : "Rydzewski Group"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : #/assets/images/umk.png
   bio              : "Developing enhanced sampling methods"
   location         : "NCU, Toruń, Poland"
   email            : jr@fizyka.umk.pl

@@ -15,12 +15,10 @@ members:
     children:
       - title: "Dr. Jakub Rydzewski"
         url: /members/jr/
-  - title: "PhD Students"
-    children:
-      - title: "Adam S. Grzonkowski"
-        url: /members/asg
   - title: "Students"
     children:
+      - title: "Wojtek Amtmański"
+        url: /members/wa
       - title: "Sylwia Czach"
         url: /members/sc/
       - title: "Kajetan Krzewina"

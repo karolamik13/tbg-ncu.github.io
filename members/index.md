@@ -9,15 +9,15 @@ sidebar:
 
 ## Group Leader
 
-Dr. Jakub Rydzewski
+[Dr. Jakub Rydzewski](jr)  
 
 ## Students
 
-Wojtek Amtmański
-Sylwia Czach  
-Kajetan Krzewina  
-Aleksander Oskroba  
-Ola Warmbier
+[Wojtek Amtmański](wa)  
+[Sylwia Czach](sc)  
+[Kajetan Krzewina](kk)  
+[Aleksander Oskroba](ao)  
+[Ola Warmbier](aw)
 
 ## Openings
 
