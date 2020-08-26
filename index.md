@@ -3,8 +3,6 @@ layout: home
 author_profile: true
 title: Research
 toc: true
-sidebar:
-  nav: shortcuts
 ---
 
 This research group focuses on the development of enhanced molecular dynamics 

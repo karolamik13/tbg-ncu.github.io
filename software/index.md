@@ -4,8 +4,6 @@ title: Software
 permalink: /software/
 toc: true
 author_profile: true
-sidebar:
-  nav: shortcuts
 ---
 
 ## `MAZE` Module for PLUMED2

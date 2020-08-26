@@ -3,8 +3,6 @@ layout: single
 title: Funding
 permalink: /funding/
 author_profile: true
-sidebar:
-  nav: shortcuts
 ---
 Jakub Rydzewski acknowledges the following funding:
 * NAWA Promocja Zagraniczna 2019 -- [*Open Source, Open Science*](https://open-ncu.github.io);
