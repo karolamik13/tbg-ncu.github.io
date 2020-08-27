@@ -7,6 +7,10 @@ sidebar:
   nav: members
 ---
 
+## Slack Channel
+
+Want to join our Slack channel? Register [here](https://join.slack.com/t/jakryd-group/shared_invite/zt-h3dq1axt-l6vfP9NR4cYzsyUg4fC8GA).
+
 ## Group Leader
 
 [Dr. Jakub Rydzewski](jr)  
