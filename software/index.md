@@ -8,6 +8,9 @@ author_profile: true
 
 ## `MAZE` Module for PLUMED2
 
+![maze-icon](assets/images/maze-icon.png)
+![maze-path](assets/images/maze-paths.png)
+
 ### Information
 
 `maze` (version 1.0)  
