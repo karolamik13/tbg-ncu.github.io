@@ -1,6 +1,5 @@
 ---
 layout: single
-title: Group Leader
 permalink: /members/jr/
 toc: true
 sidebar:

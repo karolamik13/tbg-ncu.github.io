@@ -1,7 +1,6 @@
 ---
 layout: single
-title: Group Leader
-permalink: /members/.../
+permalink: /members/bn/
 toc: true
 sidebar:
   nav: members
