@@ -491,8 +491,8 @@ body:hover .visually-hidden button {
   ol,
   li,
   p {
-    margin-bottom: 0;
-    font-size: $type-size-6;
+    margin-bottom: -1em;
+    font-size: $type-size-5
   }
 }
 
