@@ -19,6 +19,9 @@ Contact
     Phone: +48 56 611 3346  
     Office: 573  
 
+Web Page
+:   [Rydzewski Group](https://jakryd.github.io/)
+
 Scientific Career
 -----------------
 
