@@ -5,8 +5,8 @@ title                    : ""
 title_separator          : ""
 name                     : "Theoretical Biophysics Group"
 description              : ""
-url                      : "https://theoretical-biophysics-group.github.io"
-repository               : "theoretical-biophysics-group/theoretical-biophysics-group.github.io"
+url                      : "https://ncu-theoretical-biophysics-group.github.io"
+repository               : "ncu-theoretical-biophysics-group/ncu-theoretical-biophysics-group.github.io"
 teaser                   : #
 logo                     : /assets/images/logo.png
 masthead_title           : ""
@@ -70,7 +70,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Theoretical Biphysics Group"
+  name             : "Theoretical Biophysics Group"
   avatar           : #
   bio              : ""
   location         : "NCU, Toruń, Poland"
