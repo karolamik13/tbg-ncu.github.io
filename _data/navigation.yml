@@ -5,41 +5,11 @@ main:
     url: /publications/
   - title: "Funding"
     url: /funding/
-  - title: "Software"
-    url: /software/
-  - title: "Posts"
-    url: /blog/
 
 members:
-  - title: "Group Leader"
+  - title: "Group Members"
     children:
       - title: "Dr. Jakub Rydzewski"
         url: /members/jr/
-  - title: "Students"
-    children:
-      - title: "Wojtek Amtmański"
-        url: /members/wa
-      - title: "Sylwia Czach"
-        url: /members/sc/
-      - title: "Kajetan Krzewina"
-        url: /members/kk/
-      - title: "Aleksander Oskroba"
-        url: /members/ao/
-      - title: "Ola Warmbier"
-        url: /members/aw/
-
-shortcuts:
-  - title: "Shortcuts"
-    children:
-      - title: "Recent Publications"
-        url: /publications/#2019
-      - title: "MAZE Code"
-        url: /software/#maze
-      - title: "Posters"
-        url: https://github.com/jakryd/posters/
-      - title: "PLUMED Eggs"
-        url: https://github.com/jakryd/plumed-eggs/
-      - title: "The PLUMED Consortium"
-        url: https://www.plumed-nest.org/
-      - title: "Open NCU"
-        url: https://open-ncu.github.io/
+      - title: "Dr. Katarzyna Walczewska-Szewc"
+        url: /members/kws/

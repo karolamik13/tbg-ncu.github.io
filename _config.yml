@@ -3,13 +3,13 @@ minimal_mistakes_skin    : "default"
 locale                   : "en-US"
 title                    : ""
 title_separator          : ""
-name                     : "Jakub Rydzewski"
+name                     : "Theoretical Biphysics Group"
 description              : ""
-url                      : "https://jakryd.github.io"
-repository               : "jakryd/jakryd.github.io"
-teaser                   : # "/assets/images/logo.jpg"
-logo                     : /assets/images/umk.png
-masthead_title           : "" #"Rydzewski Group"
+url                      : "https://theoretical-biophysics-group.github.io"
+repository               : "theoretical-biophysics-group/theoretical-biophysics-group.github.io"
+teaser                   : #
+logo                     : /assets/images/logo.png
+masthead_title           : ""
 words_per_minute         : 200
 comments:
   provider               : staticman
@@ -54,7 +54,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : jakryd
+  username               : #jakryd
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
@@ -70,46 +70,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rydzewski Group"
-  avatar           : #/assets/images/umk.png
-  bio              : "Developing enhanced sampling methods"
+  name             : "Theoretical Biphysics Group"
+  avatar           : #
+  bio              : ""
   location         : "NCU, Toruń, Poland"
-  email            : jr@fizyka.umk.pl
+  email            :
   links:
     - label: "Institute of Physics, NCU"
       icon: "fas fa-fw fa-link"
       url: "https://www.ifiz.umk.pl/en/"
-    - label: "Twitter"
-      icon: "fab fa-twitter"
-      url: "https://twitter.com/JakubRydzewski"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jakryd"
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.pl/citations?user=dEMXOpcAAAAJ&hl=en"
-    - label: "ORCID"
-      icon: "fas fa-fingerprint"
-      url: "https://orcid.org/0000-0003-4325-4177"
-    - label: "arXiv"
-      icon: "fas fa-scroll"
-      url: "https://arxiv.org/a/0000-0003-4325-4177.html"
-    - label: "Telegram"
-      icon: "fab fa-fw fa-telegram"
-      url: "https://t.me/jakryd"
+      url: "https://github.com/theoretical-biophysics-group"
 
-# Site Footer
-#footer:
-#  links:
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/JakubRydzewski"
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/jakryd"
-#    - label: "Google Scholar"
-#      icon: "fab fa-fw fa-google"
-#      url: "https://scholar.google.pl/citations?user=dEMXOpcAAAAJ&hl=en"
 
 # Reading Files
 include:
