@@ -9,7 +9,19 @@ main:
 members:
   - title: "Group Members"
     children:
+      - title: "Prof. Wiesław Nowak"
+        url: /members/wn/
       - title: "Dr. Jakub Rydzewski"
         url: /members/jr/
       - title: "Dr. Katarzyna Walczewska-Szewc"
         url: /members/kws/
+      - title: "Dr. Łukasz Pepłowski"
+        url: /members/lp/
+      - title: "Dr. Karolina Mikulska-Rumińska"
+        url: /members/kmr/
+      - title: "Beata Niklas"
+        url: /members/bn/
+      - title: "Julia Berdychowska"
+        url: /members/jb/
+      - title: "Sylwia Czach"
+        url: /members/sc/
