@@ -2,6 +2,7 @@
 layout: single
 title: ""
 permalink: /members/bn/
+author_profile: true
 toc: true
 sidebar:
   nav: members

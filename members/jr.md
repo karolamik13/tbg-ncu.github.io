@@ -1,6 +1,7 @@
 ---
 layout: single
 title: ""
+author_profile: true
 permalink: /members/jr/
 toc: true
 sidebar:
