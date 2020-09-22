@@ -1,5 +1,6 @@
 ---
 layout: single
+title: ""
 permalink: /members/sc/
 toc: true
 sidebar:

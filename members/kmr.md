@@ -1,5 +1,6 @@
 ---
 layout: single
+title: ""
 permalink: /members/kmr/
 toc: true
 sidebar:

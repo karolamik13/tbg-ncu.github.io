@@ -7,8 +7,7 @@ sidebar:
   nav: members
 ---
 
-Dr. Jakub Rydzewski
-===================
+### Dr. Jakub Rydzewski
 
 Contact
 :   Institute of Physics, Nicolaus Copernicus University  
