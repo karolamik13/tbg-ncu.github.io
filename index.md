@@ -8,7 +8,7 @@ toc: true
 Testowy obrazek pojawi sie tu: 
 
 
-![Test figure] (https://raw.githubusercontent.com/NCU-Theoretical-Biophysics-Group/NCU-Theoretical-Biophysics-Group.github.io/master/assets/images/Webpage_1.png)
+![Test figure] (/assets/images/Webpage_1.png)
 
 This research group focuses on the development of enhanced molecular dynamics 
 techniques for studying physical systems. 
