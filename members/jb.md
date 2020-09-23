@@ -8,38 +8,40 @@ sidebar:
   nav: members
 ---
 
-Dr. ...
+M. Sc. Julia Berdychowska
 ===================
 
 Contact
 :   Institute of Physics, Nicolaus Copernicus University  
     Grudziadzka 5, 87-100 Toruń, Poland  
 
-    E-mail: ...  
+    E-mail: jaber@doktorant.umk.pl  
     Phone: ...  
     Office: ...  
+
+
+Scientific Interests
+-----------------  
+molecular biology, microbiology, proteins, enzymes, biophysics
 
 Scientific Career
 -----------------
 
 Since 2019
-:   *Assistant Professor* at the Institute of Physics NCU (Toruń, Poland).
+:   *PhD student* at the Institute of Physics NCU (Toruń, Poland).
 
 Education
 ---------
 
-2014-2018
-:   *PhD in Physical Sciences* at the Institue of Physics NCU (Toruń, Poland).
+2014-2019
+:   *MSc in Biotechnology* at the Faculty of Biology and Environment Protection NCU (Toruń, Poland).
   
-    Thesis: ...   
+    Thesis: Potential markers of seed vigour of rapeseed Brassica napus L.   
 
-Reviewing
----------
-
-Scientific articles
-:   ...   
 
 Interests
 ---------
+reading, riding bike  
 
-...   
+
+
