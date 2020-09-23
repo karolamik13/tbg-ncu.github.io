@@ -20,6 +20,12 @@ Contact
     Phone: +48 56 611 3346  
     Office: 573 
 
+Scientific Interests
+-----------------  
+
+Protein structure and dynamics (molecular dynamics), protein-protein and protein-lipid interactions, Enhanced Sampling techniques, Monte-Carlo models and FRET.
+
+
 Scientific Career
 -----------------
 
