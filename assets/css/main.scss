@@ -6,3 +6,13 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// jr -- fix for avatar figures
+img[src~="avatar"] {
+  float: right;
+  width: 150px;
+  height: 150px;
+  border: 1px solid black;
+  border-radius: 0%;
+  object-fit: cover;
+}
