@@ -5,6 +5,9 @@ title: Research
 toc: true
 ---
 
+Testowy obrazek pojawi sie tu: 
+
+
 ![Test figure] (NCU-Theoretical-Biophysics-Group.github.io/assets/images/Webpage_1.png)
 
 This research group focuses on the development of enhanced molecular dynamics 
