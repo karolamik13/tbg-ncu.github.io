@@ -1,11 +1,8 @@
 ---
 layout: home
 author_profile: true
-title: Research
 toc: true
 ---
-
-Testowy obrazek pojawi sie tu: 
 
 
 
