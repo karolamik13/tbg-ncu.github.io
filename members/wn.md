@@ -10,7 +10,7 @@ sidebar:
 
 Prof. Dr. hab. Wiesław Nowak
 ===================
-
+<img align="right" width="100" src="/assets/images/wn.png">
 Contact
 :   Institute of Physics, Nicolaus Copernicus University  
     Grudziadzka 5, 87-100 Toruń, Poland  
@@ -24,32 +24,42 @@ Scientific Career
 -----------------
 
 Since 2019  
-:   *Director of Doctoral School of Exact and Life Sciences*, NCU, Toruń, Poland  
-:   *Head of the Department of Biophysics* at the Institute of Physics NCU, Toruń, Poland  
+:   *Director of Doctoral School of Exact and Life Sciences*, NCU (Toruń, Poland).  
+
+:   *Head of the Department of Biophysics* at the Institute of Physics NCU (Toruń, Poland).  
+
 
 2011-present  
-:   *Head of the Interdisciplinary Physics and Computer Science Group*, Interdisciplinary Centre of Modern Technologies, NCU, Toruń, Poland
+:   *Head of the Interdisciplinary Physics and Computer Science Group*, Interdisciplinary Centre of Modern Technologies, NCU (Toruń, Poland).  
+
 
 2007-2010  
-:   *Deputy Director of the Institute of Physics*, NCU, Toruń, Poland  
+:   *Deputy Director of the Institute of Physics*, NCU (Toruń, Poland).  
+
 
 2004–2007  
-:   *Dean of Interfaculty Math and Science College*, NCU, Toruń, Poland  
+:   *Dean of Interfaculty Math and Science College*, NCU (Toruń, Poland).  
+
 
 2001-2003  
-:   *Vice-Dean of Interfaculty Math and Science College*, NCU, Toruń, Poland  
+:   *Vice-Dean of Interfaculty Math and Science College*, NCU (Toruń, Poland).  
+
 
 2001-present  
-:   *Head of Theoretical Molecular Biophysics Group*, Institute of Physics, NCU, Toruń, Poland  
+:   *Head of Theoretical Molecular Biophysics Group*, Institute of Physics, NCU (Toruń, Poland).  
+
 
 2012-present  
-:   *full professor of Physics* Institute of Physics NCU, Toruń, Poland   
+:   *full professor of Physics* Institute of Physics NCU (Toruń, Poland).  
+
 
 2003-2012  
-:   *Associate professor* at Institute of Physics NCU, Toruń, Poland  
+:   *Associate professor* at Institute of Physics NCU (Toruń, Poland).  
+
 
 1991-2003  
-:   *Assistant professor* at Institute of Physics NCU, Toruń, Poland  
+:   *Assistant professor* at Institute of Physics NCU (Toruń, Poland).  
+
 
 1993  
 :   *Postdoctoral poste-vert INSERM fellowship*, Laboratory for Applied Optics, Ecole Polytechnique, Paris-Palaiseau, France  
@@ -58,20 +68,35 @@ Since 2019
 :   *Postdoctoral fellow* at Department of Chemistry, University of Illinois at Chicago, Chicago,  IL,  USA  
 
 1983-1989  
-:   *Senior Research Associate* at  Institute of Physics NCU, Toruń, Poland  
+:   *Senior Research Associate* at  Institute of Physics NCU (Toruń, Poland).  
+
 
 1980-1983  
-:   *Research Associate* at  Institute of Physics NCU, Toruń, Poland  
+:   *Research Associate* at  Institute of Physics NCU (Toruń, Poland).  
+
 
 
 
 Education
 ---------
 
-2014-2018
-:   *PhD in Physical Sciences* at the Institue of Physics NCU (Toruń, Poland).
+2009  
+:   *Professor of physics* NCU (Toruń, Poland).  
+
+2000  
+:   *D.Sc. Habilitation, Molecular physics, Biophysics, Computer physics*, NCU (Toruń, Poland). 
   
-    Thesis: ...   
+    Thesis: Theoretical Investigations of Ligands Diffusion in Heme Proteins.  
+    
+1989  
+:   *PhD in Theoretical Physics*, NCU (Toruń, Poland). 
+  
+    Thesis: Exact Solutions of Pariser-Parr-Pople Hamiltonian    
+    
+1979   
+:   *MSc in Quantum Chemistry*, NCU (Toruń, Poland). 
+  
+    Thesis: Electron Affinities of Atoms      
 
 Reviewing
 ---------
