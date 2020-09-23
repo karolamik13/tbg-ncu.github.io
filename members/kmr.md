@@ -10,7 +10,9 @@ sidebar:
 
 Dr. Karolina Mikulska-Rumińska
 ===================
-<img align="right" width="100" src="/assets/images/kmr.png">
+
+![kmr-avatar](/assets/images/kmr.png# avatar)
+
 Contact
 :   Institute of Physics, Nicolaus Copernicus University  
     Grudziadzka 5, 87-100 Toruń, Poland  

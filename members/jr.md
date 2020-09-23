@@ -11,6 +11,8 @@ sidebar:
 Dr. Jakub Rydzewski
 ===================
 
+![jr-avatar](/assets/images/jr.png# avatar)
+
 Contact
 :   Institute of Physics, Nicolaus Copernicus University  
     Grudziadzka 5, 87-100 Toruń, Poland  
