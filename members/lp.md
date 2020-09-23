@@ -31,7 +31,7 @@ Education
 2014-2018
 :   *PhD in Physical Sciences* at the Institue of Physics NCU (Toruń, Poland).
   
-    Thesis: ...   
+    Thesis: ...    
 
 Reviewing
 ---------
