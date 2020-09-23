@@ -53,7 +53,7 @@ Education
     Thesis: [Interpreting Resonance Energy Transfer Experiments with Monte-Carlo and Molecular Dynamics Simulations](https://openresearch-repository.anu.edu.au/handle/1885/151534)
 
 2004-2009
-:   *MD in Astronomy* at the Faculty of Physics, Astronomy and Informatics, NCU (Toruń, Poland).  
+:   *MSc in Astronomy* at the Faculty of Physics, Astronomy and Informatics, NCU (Toruń, Poland).  
     Thesis: [Correlation between the X-ray and gamma-ray emission of HBL type blazars ]
 
 Interests
