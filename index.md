@@ -5,6 +5,8 @@ title: Research
 toc: true
 ---
 
+![Test figure] (NCU-Theoretical-Biophysics-Group.github.io/assets/images/Webpage_1.png)
+
 This research group focuses on the development of enhanced molecular dynamics 
 techniques for studying physical systems. 
 
