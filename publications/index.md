@@ -33,6 +33,12 @@ __J. Rydzewski__
 Głos Uczelni UMK 77, 7--10 (2019)  
 [PDF](/assets/pubs/GU_2019-07-10_jr.pdf){: .btn .btn--inverse .btn--small}  
 
+K. Walczewska-Szewc, W. Nowak
+*Spacial models of malfunctioned protein complexes help to elucidate signal transduction critical for insulin release*
+Biosystems 177, 48-55
+[DOI](https://doi.org/10.1016/j.biosystems.2018.11.001){: .btn .btn--inverse .btn--small} 
+
+
 [The PLUMED Consortium](https://www.plumed-nest.org/consortium.html)  
 *Promoting Transparency and Reproducibility in Enhanced Molecular Simulations*  
 Nat. Methods 16, 670 (2019)  
