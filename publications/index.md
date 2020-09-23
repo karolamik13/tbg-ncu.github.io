@@ -21,9 +21,9 @@ Comp. Phys. Commun. 247, 106865 (2020)
 [plumID:19.056](https://www.plumed-nest.org/eggs/19/056/){: .btn .btn--inverse .btn--small}  
 
 K Walczewska-Szewc, W Nowak
-
 *Structural Determinants of Insulin Release: Disordered N-Terminal Tail of Kir6. 2 Affects Potassium Channel Dynamics through Interactions with Sulfonylurea Binding Region in a SUR1 Partner*
 J. Phys. Chem. B 124 (29), 6198-6211
+[DOI](https://pubs.acs.org/doi/10.1021/acs.jpcb.0c02720){: .btn .btn--inverse .btn--small}
 
 ## 2019
 __J. Rydzewski__  
