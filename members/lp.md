@@ -8,9 +8,9 @@ sidebar:
   nav: members
 ---
 
-Dr. ...
+Dr. Łukasz Pepłowski
 ===================
-
+<img align="right" width="100" src="/assets/images/lp.png">
 Contact
 :   Institute of Physics, Nicolaus Copernicus University  
     Grudziadzka 5, 87-100 Toruń, Poland  
@@ -31,7 +31,7 @@ Education
 2014-2018
 :   *PhD in Physical Sciences* at the Institue of Physics NCU (Toruń, Poland).
   
-    Thesis: ...   
+    Thesis: ...    
 
 Reviewing
 ---------
