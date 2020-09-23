@@ -42,7 +42,7 @@ Education
 2012-2015
 :   *PhD in Biomedical Science and Biochemistry* at the Research School of Biology, Australian National University (Canberra, Australia).
 
-    Thesis: [Interpreting Resonance Energy Transfer Experiments with Monte-Carlo and Molecular Dynamics Simulations](/assets/pubs/KWS_2015_PhD.pdf)
+    Thesis: [Interpreting Resonance Energy Transfer Experiments with Monte-Carlo and Molecular Dynamics Simulations](https://openresearch-repository.anu.edu.au/handle/1885/151534)
 
 
 Interests
