@@ -98,11 +98,6 @@ Education
   
     Thesis: Electron Affinities of Atoms      
 
-Reviewing
----------
-
-Scientific articles
-:   ...   
 
 Interests
 ---------
