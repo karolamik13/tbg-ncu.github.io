@@ -10,7 +10,8 @@ sidebar:
 
 Dr. Katarzyna Walczewska-Szewc
 ===================
-![Test figure](/assets/images/kws.png)
+<img align="right" width="100" src="/assets/images/kws.png">
+
 Contact
 :   Institute of Physics, Nicolaus Copernicus University  
     Grudziadzka 5, 87-100 Toruń, Poland  
