@@ -48,4 +48,4 @@ Education
 Interests
 ---------
 
-Ukulele playing, Kniting, Sport climbing
+Ukulele playing, kniting, sport climbing
