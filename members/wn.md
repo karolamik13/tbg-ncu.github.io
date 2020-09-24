@@ -8,7 +8,7 @@ sidebar:
   nav: members
 ---
 
-Prof. Dr. hab. Wiesław Nowak
+Prof. Dr. Wiesław Nowak
 ===================
 
 ![wn-avatar](/assets/images/wn.png# avatar)
@@ -18,8 +18,8 @@ Contact
     Grudziadzka 5, 87-100 Toruń, Poland  
 
     E-mail: wiesiek@umk.pl  
-    Phone: direct:  +48 56 6113204, secretariat: + 48 56 613249, mobile: +48 607534700  
-    Office: ...  
+    Phone: +48 56 6113204
+    Office: 482  
     www: fizyka.umk.pl/~wiesiek
 
 Scientific Career
@@ -52,15 +52,15 @@ Since 2019
 
 
 2012-present  
-:   *full professor of Physics* Institute of Physics NCU (Toruń, Poland).  
+:   *Professor of Physics* Institute of Physics NCU (Toruń, Poland).  
 
 
 2003-2012  
-:   *Associate professor* at Institute of Physics NCU (Toruń, Poland).  
+:   *Associate Professor* at Institute of Physics NCU (Toruń, Poland).  
 
 
 1991-2003  
-:   *Assistant professor* at Institute of Physics NCU (Toruń, Poland).  
+:   *Assistant Professor* at Institute of Physics NCU (Toruń, Poland).  
 
 
 1993  
@@ -88,20 +88,14 @@ Education
 2000  
 :   *D.Sc. Habilitation, Molecular physics, Biophysics, Computer physics*, NCU (Toruń, Poland). 
   
-    Thesis: Theoretical Investigations of Ligands Diffusion in Heme Proteins.  
+    Thesis: *Theoretical Investigations of Ligands Diffusion in Heme Proteins* 
     
 1989  
-:   *PhD in Theoretical Physics*, NCU (Toruń, Poland). 
+:   *PhD in Theoretical physics*, NCU (Toruń, Poland). 
   
-    Thesis: Exact Solutions of Pariser-Parr-Pople Hamiltonian    
+    Thesis: *Exact Solutions of Pariser-Parr-Pople Hamiltonian*    
     
 1979   
-:   *MSc in Quantum Chemistry*, NCU (Toruń, Poland). 
+:   *MSc in Chemistry*, NCU (Toruń, Poland). 
   
-    Thesis: Electron Affinities of Atoms      
-
-
-Interests
----------
-
-...   
+    Thesis: *Electron Affinities of Atoms*         
