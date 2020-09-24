@@ -10,7 +10,7 @@ sidebar:
 
 M. Sc. Beata Niklas
 ===================
-![bn-avatar](/assets/images/bn.png# avatar)
+![bn-avatar](/assets/images/bn.png# avatar)  
 Contact
 :   Institute of Physics, Nicolaus Copernicus University  
     Grudziadzka 5, 87-100 Toruń, Poland  
