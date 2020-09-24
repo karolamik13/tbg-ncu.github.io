@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 
+title: ""
 permalink: /members/
 toc: true
 author_profile: true
