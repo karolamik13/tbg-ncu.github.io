@@ -29,31 +29,34 @@ Protein structure and dynamics (molecular dynamics), protein-protein and protein
 Scientific Career
 -----------------
 
-Since 2019
+Since 2019  
 :   *Assistant Professor* at the Institute of Physics NCU (Toruń, Poland).  
+
 2016-2018  
 :   *Postdoctoral Associate* in the group of Prof. Ivet Bahar, School of Medicine, University of Pittsburgh (Pittsburgh, USA).  
-2013-2019
-:   *Research Assistant* at the Institute of Physics NCU (Toruń, Poland).  
-2013-2014
-:   *PhD Researcher* in the group of Prof. Giovanni Dietler, École polytechnique fédérale de Lausanne (EPFL, Lausanne, Switzerland).  
-2012
-:   *Intern* In Silico Laboratory, R&D department in pharmaceutical company ADAMED (Warshaw, Poland).  
 
+2013-2019  
+:   *Research Assistant* at the Institute of Physics NCU (Toruń, Poland).  
+
+2013-2014  
+:   *PhD Researcher* in the group of Prof. Giovanni Dietler, École polytechnique fédérale de Lausanne (EPFL, Lausanne, Switzerland).  
+
+2012  
+:   *Intern* In Silico Laboratory, R&D department in pharmaceutical company ADAMED (Warshaw, Poland).  
 
 
 Education
 ---------
 
-2009-2014
+2009-2014  
 :   *PhD in Biophysics* (honors) at the Institue of Physics NCU (Toruń, Poland).
   
     Thesis: Namomechnics of neuronal cell adhesion molecules - studies with steered molecular dynamics and single molecule force spectroscopy   
     
-2007-2009
+2007-2009  
 :   *MSc in Medical Physics* at the Institue of Physics NCU (Toruń, Poland).
   
-2004-2007
+2004-2007  
 :   *BSc in Medical Physics and Computer Applications* at the Institue of Physics NCU (Toruń, Poland).
   
       
