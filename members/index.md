@@ -35,4 +35,11 @@ For PhD students
    * *mellme*, 22:
 
 For students
-:     We welcome all Bachelor and Master students who want to work on a research project in our group.
+:     We welcome all Bachelor and Master students who want to work on a research project in our group.  
+
+Former Group Members
+--------
+
+Anna Gogolińska  
+Rafał Jakubowski  
+...
