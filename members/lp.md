@@ -33,7 +33,6 @@ Since 2009
 :   *Assistant Professor* at the Institute of Physics NCU (Toruń, Poland).  
 2008-2009  
 :   *Research Assistant* at the Institute of Physics NCU (Toruń, Poland).  
-
 2019  
 :   *Visiting Professor* School of Biotechnology, Jiangnan University (Wuxi, China).  
 2018  
@@ -51,11 +50,11 @@ Education
 ---------
 
 2014-2018
-:   *PhD in Physical Sciences* at the Institue of Physics NCU (Toruń, Poland).
+:   *PhD in Physics* at the Faculty of Physics Astronomy and Informatics, NCU (Toruń, Poland).
   
-    Thesis: ...    
-
-
+    Thesis: Molecular dynamics and Bioinformatics Study of enzymatic reactions mechanism – nitrile hydratase case    
+1999-2004  
+:   *MSc in Computer Physics* at the Faculty of Physics Astronomy and Informatics, NCU (Toruń, Poland).  
 
 Interests
 ---------
@@ -63,15 +62,5 @@ Interests
 China, Gardening, cooking   
 
 
-Scientific Career
-Since 2009  Assistant Professor at the Institute of Physics NCU (Toruń, Poland).
-2008-2009 Research Assistant at the Institute of Physics NCU (Toruń, Poland).
-
-
-
-Education
-2004-2008 PhD in Physics (honors) at the Faculty of Physics Astronomy and Informatics, NCU (Toruń, Poland).
-Thesis: Molecular dynamics and Bioinformatics Study of enzymatic reactions mechanism – nitrile hydratase case
-1999-2004 MSc in Computer Physics at the Faculty of Physics Astronomy and Informatics, NCU (Toruń, Poland).
 
 
