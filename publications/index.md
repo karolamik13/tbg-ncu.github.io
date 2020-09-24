@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 toc: true
 author_profile: true
+sidebar:
+  nav: members
 ---
 
 ## 2020
