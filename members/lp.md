@@ -29,7 +29,7 @@ Protein structure and dynamics (molecular dynamics - MD) in particular MD of non
 Scientific Career
 -----------------
 
-Since 2009
+Since 2009  
 :   *Assistant Professor* at the Institute of Physics NCU (Toruń, Poland).  
 2008-2009  
 :   *Research Assistant* at the Institute of Physics NCU (Toruń, Poland).  
