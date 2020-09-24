@@ -8,5 +8,21 @@ sidebar:
   nav: members
 ---
 
+[Wojtek Amtmański](wa)  
+[Sylwia Czach](sc)  
+[Kajetan Krzewina](kk)  
+[Aleksander Oskroba](ao)  
+[Ola Warmbier](aw)
 
-asdasdjasndlad []as dnasjd as d anlsdn
+Openings
+--------
+
+For PhD students
+:  * *Machine learning in atomistic simulations*  
+    Supervisor: [Dr. Jakub Rydzewski](/members/jr/)
+
+
+   * *mellme*, 22:
+
+For students
+:     We welcome all Bachelor and Master students who want to work on a research project in our group.
