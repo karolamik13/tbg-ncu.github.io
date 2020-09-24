@@ -31,20 +31,28 @@ Scientific Career
 
 Since 2009  
 :   *Assistant Professor* at the Institute of Physics NCU (Toruń, Poland).  
+
 2008-2009  
 :   *Research Assistant* at the Institute of Physics NCU (Toruń, Poland).  
+
 2019  
 :   *Visiting Professor* School of Biotechnology, Jiangnan University (Wuxi, China).  
+
 2018  
 :   *Visiting Professor* School of Biotechnology, Jiangnan University (Wuxi, China).  
+
 2018  
 :   Visit at University of Tsukuba, Center for Computational Sciences / Molecular Microbial Bioengineering (Tsukuba, Japan).  
+
 2017  
 :   Visit at School of Biotechnology, Jiangnan University (Wuxi, China).  
+
 2016  
 :   Visit at School of Biotechnology, Jiangnan University (Wuxi, China).  
+
 2011  
 :   Postdoc at R&D department of ADAMED SA pharmaceutical company (Warsaw, Poland)  
+
 
 Education
 ---------
