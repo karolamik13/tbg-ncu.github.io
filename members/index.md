@@ -1,18 +1,28 @@
 ---
 layout: single
-title: Research Group
+title: 
 permalink: /members/
 toc: true
 author_profile: true
 sidebar:
   nav: members
 ---
+Group Leader
+--------
 
-[Wojtek Amtmański](wa)  
+[Wiesław Nowak](wn)  
+
+Group Members
+--------
+
+[Łukasz Pepłowski](lp)  
+[Karolina Mikulska-Rumińska](kmr)  
+[Katarzyna Walczewska-Szewc](kws)  
+[Jakub Rydzewski](jr)  
+[Beata Niklas](bn)  
+[Julia Berdychowska](jb)  
 [Sylwia Czach](sc)  
-[Kajetan Krzewina](kk)  
-[Aleksander Oskroba](ao)  
-[Ola Warmbier](aw)
+
 
 Openings
 --------
