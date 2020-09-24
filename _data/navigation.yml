@@ -11,14 +11,17 @@ members:
     children:
       - title: "Prof. Wiesław Nowak"
         url: /members/wn/
-      - title: "Dr. Jakub Rydzewski"
-        url: /members/jr/
-      - title: "Dr. Katarzyna Walczewska-Szewc"
-        url: /members/kws/
       - title: "Dr. Łukasz Pepłowski"
         url: /members/lp/
       - title: "Dr. Karolina Mikulska-Rumińska"
         url: /members/kmr/
+      - title: "Dr. Katarzyna Walczewska-Szewc"
+        url: /members/kws/        
+      - title: "Dr. Jakub Rydzewski"
+        url: /members/jr/
+
+
+
       - title: "Beata Niklas"
         url: /members/bn/
       - title: "Julia Berdychowska"
