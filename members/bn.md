@@ -38,7 +38,7 @@ Education
 2013-2018
 :   *MSc in Biotechnology* at the Intercollegiate Faculty of Biotechnology University of Gdańsk & Medical University of Gdańsk (Gdańsk, Poland)
   
-    Thesis: Badanie interakcji pomiędzysubstancjami zawartymi w ekstraktach z roślinowadożernych, nanocząstkami srebra oraz wybranymiantybiotykami   
+    Thesis: Optimisation of ultrasound-assisted extraction conditions for selected secondary metabolites from Dionaea muscipula using high performance liquid chromatography   
 
 
 Interests
