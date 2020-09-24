@@ -8,38 +8,40 @@ sidebar:
   nav: members
 ---
 
-Dr. ...
+M. Sc. Beata Niklas
 ===================
-
+![bn-avatar](/assets/images/bn.png# avatar)  
 Contact
 :   Institute of Physics, Nicolaus Copernicus University  
     Grudziadzka 5, 87-100 Toruń, Poland  
 
-    E-mail: ...  
-    Phone: ...  
-    Office: ...  
+    E-mail: beata.niklas@doktorant.umk.pl  
+    Phone: +48 56 611 3346  
+    Office: 573  
+
+Scientific Interests
+-----------------
+
+Membrane proteins (G protein-coupled receptors in particular), molecular dynamics, electrophysiology
+
 
 Scientific Career
 -----------------
 
-Since 2019
-:   *Assistant Professor* at the Institute of Physics NCU (Toruń, Poland).
+Since 2018
+:   *PhD student* in biology & physics at the Interdisciplinary Doctoral School Academia Copernicana (Toruń, Poland)
+    Topic: Role of selected ligands in structural changes and activity of GPCR receptors
 
 Education
 ---------
 
-2014-2018
-:   *PhD in Physical Sciences* at the Institue of Physics NCU (Toruń, Poland).
+2013-2018
+:   *MSc in Biotechnology* at the Intercollegiate Faculty of Biotechnology University of Gdańsk & Medical University of Gdańsk (Gdańsk, Poland)
   
-    Thesis: ...   
+    Thesis: Badanie interakcji pomiędzysubstancjami zawartymi w ekstraktach z roślinowadożernych, nanocząstkami srebra oraz wybranymiantybiotykami   
 
-Reviewing
----------
-
-Scientific articles
-:   ...   
 
 Interests
 ---------
 
-...   
+Long walks in nature, music, literature, meat production in in vitro cultures, psychology   
