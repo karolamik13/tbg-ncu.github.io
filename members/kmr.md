@@ -22,9 +22,7 @@ Contact
     Office: 482  
 
 Scientific Interests
------------------  
-
-Protein structure and dynamics (molecular dynamics), protein-protein and protein-lipid interactions (molecular docking), elastic network models, allostery, atomic force microscopy and nanomechanics.
+:   Protein structure and dynamics (molecular dynamics), protein-protein and protein-lipid interactions (molecular docking), elastic network models, allostery, atomic force microscopy and nanomechanics.
 
 Scientific Career
 -----------------

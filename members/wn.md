@@ -18,9 +18,9 @@ Contact
     Grudziadzka 5, 87-100 Toruń, Poland  
 
     E-mail: wiesiek@umk.pl  
-    Phone: +48 56 6113204
+    Phone: +48 56 6113204  
     Office: 482  
-    www: fizyka.umk.pl/~wiesiek
+    Page: [fizyka.umk.pl/~wiesiek](https://www.fizyka.umk.pl/~wiesiek)
 
 Scientific Career
 -----------------

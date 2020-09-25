@@ -21,8 +21,7 @@ Contact
 
 
 Scientific Interests
------------------  
-molecular biology, microbiology, proteins, enzymes, biophysics
+:   molecular biology, microbiology, proteins, enzymes, biophysics
 
 Scientific Career
 -----------------

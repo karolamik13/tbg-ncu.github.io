@@ -20,9 +20,7 @@ Contact
     Office: 573  
 
 Scientific Interests
------------------
-
-Membrane proteins (G protein-coupled receptors in particular), molecular dynamics, electrophysiology
+:   Membrane proteins (G protein-coupled receptors in particular), molecular dynamics, electrophysiology.
 
 
 Scientific Career

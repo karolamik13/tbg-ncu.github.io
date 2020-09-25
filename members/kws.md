@@ -22,9 +22,7 @@ Contact
     Office: 573 
 
 Scientific Interests
------------------  
-
-Potassium channels and their dynamics, photo-switchable drugs, protein-protein and protein-ligand interactions, enhanced sampling techniques, advanced Monte-Carlo techniques to interpret FRET experiments in various geometries and configurations.
+:   Potassium channels and their dynamics, photo-switchable drugs, protein-protein and protein-ligand interactions, enhanced sampling techniques, advanced Monte-Carlo techniques to interpret FRET experiments in various geometries and configurations.
 
 
 Scientific Career

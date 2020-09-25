@@ -22,9 +22,7 @@ Contact
     Office: 482  
 
 Scientific Interests
------------------
-
-Protein structure and dynamics (molecular dynamics - MD) in particular MD of non-standard enzymes and receptors;  non-starndard MD protocols (SMD, LES, ...); MD with photoactive ligands; protein-ligand docking; modeling of enzymes and receptors thermostability and activity; Quantum calculations (DFT, HF);
+:   Protein structure and dynamics (molecular dynamics - MD) in particular MD of non-standard enzymes and receptors;  non-starndard MD protocols (SMD, LES, ...); MD with photoactive ligands; protein-ligand docking; modeling of enzymes and receptors thermostability and activity; Quantum calculations (DFT, HF);
 
 Scientific Career
 -----------------

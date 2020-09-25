@@ -24,6 +24,9 @@ Contact
 Web Page
 :   [Rydzewski Group](https://jakryd.github.io/)
 
+Scientific Interests
+:   Statistical mechanics, enhanced/importance sampling, machine learning.
+
 Scientific Career
 -----------------
 
@@ -54,14 +57,9 @@ Education
 2014-2018
 :   *PhD in Physical Sciences* at the Institue of Physics NCU (Toruń, Poland).
   
-    Thesis: [Rare-Event Sampling of Ligand Transport in 
-    Proteins](/assets/pubs/Rydzewski_2018_PhD.pdf)
+    Thesis: [*Rare-Event Sampling of Ligand Transport in 
+    Proteins*](/assets/pubs/Rydzewski_2018_PhD.pdf)
 
-Reviewing
----------
-
-Scientific articles
-:   J. Phys. Chem. Lett., PLoS Comput. Biol., JOSA B, IEEE, Journal of Molecular Graphics and Modelling 
 
 Interests
 ---------
