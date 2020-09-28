@@ -10,15 +10,15 @@ sidebar:
 Group Leader
 --------
 
-[Wiesław Nowak](wn)  
+[Prof. Wiesław Nowak](wn)  
 
 Group Members
 --------
 
-[Łukasz Pepłowski](lp)  
-[Karolina Mikulska-Rumińska](kmr)  
-[Katarzyna Walczewska-Szewc](kws)  
-[Jakub Rydzewski](jr)  
+[Dr. Łukasz Pepłowski](lp)  
+[Dr. Karolina Mikulska-Rumińska](kmr)  
+[Dr. Katarzyna Walczewska-Szewc](kws)  
+[Dr. Jakub Rydzewski](jr)  
 [Beata Niklas](bn)  
 [Julia Berdychowska](jb)  
 [Sylwia Czach](sc)  
@@ -28,11 +28,15 @@ Openings
 --------
 
 For PhD students
-:  * *Machine learning in atomistic simulations*  
+:  * *Machine learning in all-atom simulations*  
+    Doctoral School of Exact and Natural Sciences Academia Scientiarum Thoruniensis  
     Supervisor: [Dr. Jakub Rydzewski](/members/jr/)
 
 
-   * *mellme*, 22:
+   * *How ligands and membranes regulate inwardly rectifying potassium channels? A computer modelling approach*
+     Doctoral School of Exact and Natural Sciences Academia Scientiarum Thoruniensis  
+     Supervisor: [Dr. Katarzyna Walczewska-Szewc](/members/kws/)
+
 
 For students
 :     We welcome all Bachelor and Master students who want to work on a research project in our group.  
@@ -40,6 +44,5 @@ For students
 Former Group Members
 --------
 
-Anna Gogolińska  
-Rafał Jakubowski  
-...
+Dr. Anna Gogolińska  
+Dr. Rafał Jakubowski  
