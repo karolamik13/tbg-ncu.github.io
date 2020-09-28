@@ -43,7 +43,7 @@ feature_row:
   - image_path: /assets/images/antico.png
     alt: "md"
     title: "ANTICO - Virtual AFM as a tool for testing ANTI-COvid drugs"
-    excerpt: "blad as das sd  d"
+    excerpt: "blad as dassd  d"
     url: "/research/md/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
