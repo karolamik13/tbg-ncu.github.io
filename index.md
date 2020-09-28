@@ -19,23 +19,23 @@ feature_row:
     url: "/research/md/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: #/assets/images/enzymes.png
+  - image_path: /assets/images/enzymes.png
     alt: "md"
     title: "Enzymes and receptors thermostability and activity"
     excerpt: "blad as das sd  d"
     url: "/research/md/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: #/assets/images/logo.png
+  - image_path: /assets/images/ligands.png
     alt: "md"
-    title: "yogging"
+    title: "Ligands diffusion"
     excerpt: "blad as das sd  d"
     url: "/research/md/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: #/assets/images/logo.png
+  - image_path: /assets/images/photoswitch.png
     alt: "md"
-    title: "yogging"
+    title: "Photoisomerization and Photo-switchable drugs"
     excerpt: "blad as das sd  d"
     url: "/research/md/"
     btn_class: "btn--primary"
