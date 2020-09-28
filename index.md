@@ -5,9 +5,9 @@ header:
 excerpt: >
   A research group devoted to the development and application of molecular simulation methods for investigating biophysical systems. Located in the Institute of Physics, Nicolaus Copernicus University, Toruń, Poland.
 feature_row:
-  - image_path: #/assets/images/logo.png
+  - image_path: #/assets/images/membrane_prot.png
     alt: "md"
-    title: "Molecular dynamics simulations"
+    title: "Membrane proteins structure and dynamics"
     excerpt: "blad as das sd  d"
     url: "/research/md/"
     btn_class: "btn--primary"
