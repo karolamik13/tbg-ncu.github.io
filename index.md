@@ -19,9 +19,9 @@ feature_row:
     url: "/research/md/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: #/assets/images/logo.png
+  - image_path: #/assets/images/enzymes.png
     alt: "md"
-    title: "yogging"
+    title: "Enzymes and receptors thermostability and activity"
     excerpt: "blad as das sd  d"
     url: "/research/md/"
     btn_class: "btn--primary"
