@@ -40,7 +40,7 @@ feature_row:
     url: "/research/md/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/antico.png
+  - image_path: /assets/images/fusion-medical-animation-npjP0dCtoxo-unsplash.jpg
     alt: "md"
     title: "ANTICO - Virtual AFM as a tool for testing ANTI-COvid drugs"
     excerpt: "blad as dassd  d"
