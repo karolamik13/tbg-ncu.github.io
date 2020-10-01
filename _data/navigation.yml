@@ -26,66 +26,23 @@ members:
       - title: "Sylwia Czach"
         url: /members/sc/
 
-        
+research:       
   - title: "Research"
     children:
       - title: "Membrane proteins structure and dynamics "
-        url: /research/md/  
+        url: /research/membrane-proteins/  
         
       - title: "Enhanced sampling"
-        url: /research/es/  
+        url: /research/enhanced-sampling/  
         
       - title: "Enzymes and receptors thermostability and activity"
-        url: /research/et/  
+        url: /research/thermostability/  
         
       - title: "Ligands diffusion"
-        url: /research/ld/         
+        url: /research/ligand-diffusion/         
         
       - title: "Photoisomerization and Photo-switchable drugs"
-        url: /research/pd/  
+        url: /research/photo-switches/  
         
       - title: "ANTICO"
-        url: /research/an/  
-     
-publications:
-  - title: "Research"
-    children:
-      - title: "Membrane proteins structure and dynamics "
-        url: /research/md/  
-        
-      - title: "Enhanced sampling"
-        url: /research/es/  
-        
-      - title: "Enzymes and receptors thermostability and activity"
-        url: /research/et/  
-        
-      - title: "Ligands diffusion"
-        url: /research/ld/         
-        
-      - title: "Photoisomerization and Photo-switchable drugs"
-        url: /research/pd/  
-        
-      - title: "ANTICO"
-        url: /research/an/  
-        
-funding:
-  - title: "Research"
-    children:
-      - title: "Membrane proteins structure and dynamics "
-        url: /research/md/  
-        
-      - title: "Enhanced sampling"
-        url: /research/es/  
-        
-      - title: "Enzymes and receptors thermostability and activity"
-        url: /research/et/  
-        
-      - title: "Ligands diffusion"
-        url: /research/ld/         
-        
-      - title: "Photoisomerization and Photo-switchable drugs"
-        url: /research/pd/  
-        
-      - title: "ANTICO"
-        url: /research/an/  
-     
+        url: /research/antico/      

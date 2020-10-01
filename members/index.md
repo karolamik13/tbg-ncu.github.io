@@ -5,7 +5,8 @@ permalink: /members/
 toc: true
 author_profile: true
 sidebar:
-  nav: members
+  - nav: members
+  - nav: research
 ---
 Group Leader
 --------

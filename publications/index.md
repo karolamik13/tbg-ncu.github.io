@@ -5,7 +5,8 @@ permalink: /publications/
 toc: true
 author_profile: true
 sidebar:
-  nav: members
+  - nav: members
+  - nav: research
 ---
 
 ## 2020
