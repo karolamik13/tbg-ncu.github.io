@@ -18,10 +18,7 @@ members:
       - title: "Dr. Katarzyna Walczewska-Szewc"
         url: /members/kws/        
       - title: "Dr. Jakub Rydzewski"
-        url: /members/jr/
-
-
-
+        url: /members/jr/  
       - title: "Beata Niklas"
         url: /members/bn/
       - title: "Julia Berdychowska"
@@ -29,7 +26,6 @@ members:
       - title: "Sylwia Czach"
         url: /members/sc/
         
-research:
   - title: "Research"
     children:
       - title: "Membrane proteins structure and dynamics "
