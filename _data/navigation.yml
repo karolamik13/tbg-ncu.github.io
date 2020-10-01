@@ -25,6 +25,8 @@ members:
         url: /members/jb/
       - title: "Sylwia Czach"
         url: /members/sc/
+      - title: "test"
+        url: /members/sc/
         
   - title: "Research"
     children:
