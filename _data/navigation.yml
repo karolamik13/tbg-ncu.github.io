@@ -47,3 +47,45 @@ members:
       - title: "ANTICO - Virtual AFM as a tool for testing ANTI-COvid drugs"
         url: /research/an/  
      
+publications:
+  - title: "Research"
+    children:
+      - title: "Membrane proteins structure and dynamics "
+        url: /research/md/  
+        
+      - title: "Enhanced sampling"
+        url: /research/es/  
+        
+      - title: "Enzymes and receptors thermostability and activity"
+        url: /research/et/  
+        
+      - title: "Ligands diffusion"
+        url: /research/ld/         
+        
+      - title: "Photoisomerization and Photo-switchable drugs"
+        url: /research/pd/  
+        
+      - title: "ANTICO - Virtual AFM as a tool for testing ANTI-COvid drugs"
+        url: /research/an/  
+        
+funding:
+  - title: "Research"
+    children:
+      - title: "Membrane proteins structure and dynamics "
+        url: /research/md/  
+        
+      - title: "Enhanced sampling"
+        url: /research/es/  
+        
+      - title: "Enzymes and receptors thermostability and activity"
+        url: /research/et/  
+        
+      - title: "Ligands diffusion"
+        url: /research/ld/         
+        
+      - title: "Photoisomerization and Photo-switchable drugs"
+        url: /research/pd/  
+        
+      - title: "ANTICO - Virtual AFM as a tool for testing ANTI-COvid drugs"
+        url: /research/an/  
+     
