@@ -12,7 +12,7 @@ feature_row:
     url: "/research/membrane-proteins/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: #/assets/images/tmp.png
+  - image_path: /assets/images/tmp.png
     alt: "md"
     title: "Enhanced sampling"
     excerpt: "blad as das sd  d"
