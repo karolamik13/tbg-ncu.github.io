@@ -12,21 +12,21 @@ feature_row:
     url: "/research/membrane-proteins/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: #/assets/images/logo.png
+  - image_path: #/assets/images/tmp.png
     alt: "md"
     title: "Enhanced sampling"
     excerpt: "blad as das sd  d"
     url: "/research/enhanced-sampling/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/enzymes.png
+  - image_path: /assets/images/tmp.png
     alt: "md"
     title: "Enzymes and receptors thermostability and activity"
     excerpt: "blad as das sd  d"
     url: "/research/thermostability/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/ligands.png
+  - image_path: /assets/images/tmp.png
     alt: "md"
     title: "Ligands diffusion"
     excerpt: "blad as das sd  d"
