@@ -21,12 +21,12 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /assets/images/tmp.png
     alt: "md"
-    title: "Enzymes and receptors thermostability and activity"
+    title: "Enzymes thermostability and activity"
     excerpt: "blad as das sd  d"
     url: "/research/thermostability/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/tmp.png
+  - image_path: /assets/images/enzymes.png
     alt: "md"
     title: "Ligands diffusion"
     excerpt: "blad as das sd  d"
