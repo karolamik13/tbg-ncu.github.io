@@ -9,3 +9,8 @@ sidebar:
 ---
 
 ### Membrane proteins
+
+1. Karoliny apoptoza
+2. Beaty GPCR
+3. Kasi KATP
+
