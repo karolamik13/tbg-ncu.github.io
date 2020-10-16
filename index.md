@@ -7,7 +7,7 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/membrane_prot.png
     alt: "md"
-    title: "Membrane proteins structure and dynamics"
+    title: "Proteins structure and dynamics"
     excerpt: "blad as das sd  d"
     url: "/research/membrane-proteins/"
     btn_class: "btn--primary"
