@@ -45,5 +45,11 @@ For students
 Former Group Members
 --------
 
-Dr. Anna Gogolińska  
-Dr. Rafał Jakubowski  
+
+Dr. Marcin Dąbrowski
+Dr. Bartosz Dobrzelecki
+Dr. Anna Gogolińska 
+Dr. Rafał Jakubowski
+Dr Karina Kubiak-Ossowska
+Dr Przemysław Miszta
+Dr. Sławomir Orłowski
