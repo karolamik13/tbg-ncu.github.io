@@ -38,5 +38,16 @@ Figure 1. Computational model of PEBP1-lypoxygenase complex (PEBP1-15LOX, coordi
 Human well-being depends on good health. The metabolism of 51 amino acid (aa) protein hormone insulin is an important factor in maintaining health. ATP-sensitive potassium channels (KATP) play a key role in insulin secretion from pancreatic beta-cells. They close in response to a change in the ATP/ADP ratio and stop the K- outflow, leading to insulin release. Normally this happens when the blood glucose revel rises. Malfunctioning of KATP leads to diabetes. Despite its enormous physiological role, the mechanism of closing/opening of KATP is not known yet. Fortunately, since 2017 the KATP structure is known. It is a huge complex (~8000aa) composed of four Kir6.2 subunits and four sulfonylurea receptor moieties. This discovery opens a way to model the KATP channel gating. The complexity of KATP system calls for methods able to monitor structural changes. A standard approach is molecular dynamics, it may help to understand “bold-and-nuts” of opening/closing KATP channels. By performing extensive computer modeling of the whole KATP complex we hope to move towards understanding mechanisms of the KATP channel gating, and developing better antidiabetic drugs.
 
 
+__K. Walczewska-Szewc__, and __W. Nowak__  
+*Spacial models of malfunctioned protein complexes help to elucidate signal transduction critical for insulin release*
+Biosystems 177, 48 (2019)  
+[DOI](https://doi.org/10.1016/j.biosystems.2018.11.001){: .btn .btn--inverse .btn--small}   
+__K. Walczewska-Szewc__, and __W. Nowak__  
+*Structural Determinants of Insulin Release: Disordered N-Terminal Tail of Kir6. 2 Affects Potassium Channel Dynamics through Interactions with Sulfonylurea Binding Region in a SUR1 Partner*  
+J. Phys. Chem. B 124, 6198 (2020)  
+[DOI](https://pubs.acs.org/doi/10.1021/acs.jpcb.0c02720){: .btn .btn--inverse .btn--small}  
+
+
+
 
 
