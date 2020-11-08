@@ -33,8 +33,8 @@ Figure 1. Computational model of PEBP1-lypoxygenase complex (PEBP1-15LOX, coordi
         G-protein coupled receptors (GPCRs) play a crucial role in signal transduction and are target of 30-50% of all modern drugs. These receptors play a key role in activity of both human and insect neuronal system. Recent studies indicate that one of repellents mode of action is modulation of GPCRs but the precise mechanism remains obscure.
         Using molecular dynamics and docking we investigate the conformational changes in GPCRs, in response to ligands binding. Knowing the molecular basis of these changes will facilitate finding compounds that would serve as selective malaria vectors repellents having no side effects in human.
 
-3. Kasi KATP
- ![alt tag](/assets/images/KATP.jpg) 
+3. Kasi KATP  
+ ![alt tag](/assets/images/KATP.jpg)   
 Human well-being depends on good health. The metabolism of 51 amino acid (aa) protein hormone insulin is an important factor in maintaining health. ATP-sensitive potassium channels (KATP) play a key role in insulin secretion from pancreatic beta-cells. They close in response to a change in the ATP/ADP ratio and stop the K- outflow, leading to insulin release. Normally this happens when the blood glucose revel rises. Malfunctioning of KATP leads to diabetes. Despite its enormous physiological role, the mechanism of closing/opening of KATP is not known yet. Fortunately, since 2017 the KATP structure is known. It is a huge complex (~8000aa) composed of four Kir6.2 subunits and four sulfonylurea receptor moieties. This discovery opens a way to model the KATP channel gating. The complexity of KATP system calls for methods able to monitor structural changes. A standard approach is molecular dynamics, it may help to understand “bold-and-nuts” of opening/closing KATP channels. By performing extensive computer modeling of the whole KATP complex we hope to move towards understanding mechanisms of the KATP channel gating, and developing better antidiabetic drugs.
 
 
