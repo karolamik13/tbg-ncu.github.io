@@ -11,7 +11,7 @@ sidebar:
 Sylwia Czach
 ===================
 
-![sc-avatar](/assets/images/sc.jpeg# avatar)
+![sc-avatar](/assets/images/sc.png# avatar)
 
 Contact
 :   Institute of Physics, Nicolaus Copernicus University  
