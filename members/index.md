@@ -23,7 +23,7 @@ Group Members
 [Beata Niklas](bn)  
 [Julia Berdychowska](jb)  
 [Sylwia Czach](sc)  
-[Thiliban Manivarma](tb)
+[Thiliban Manivarma](tm)
 
 
 Openings
