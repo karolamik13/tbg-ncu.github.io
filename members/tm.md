@@ -8,53 +8,50 @@ sidebar:
   nav: members
 ---
 
-Dr. Katarzyna Walczewska-Szewc
+Thiliban Manivarma, M.Tech.
 ===================
 
-![kws-avatar](/assets/images/kws.png# avatar)
+![kws-avatar](/assets/images/tm.png# avatar)
 
 Contact
 :   Institute of Physics, Nicolaus Copernicus University  
     Grudziadzka 5, 87-100 Toruń, Poland  
     
-    E-mail: kszewc@fizyka.umk.pl
-    Phone: +48 56 611 3346  
-    Office: 573 
+    E-mail: thiliban@doktorant.umk.pl, thilibanaussie@gmail.com
+    LinkedIn : Thiliban M
+    Github : ThilibanManivarma1997
+    Phone: ...  
+    Office: ... 
 
 Scientific Interests
-:   Potassium channels and their dynamics, photo-switchable drugs, protein-protein and protein-ligand interactions, enhanced sampling techniques, advanced Monte-Carlo techniques to interpret FRET experiments in various geometries and configurations.
+:   Computer-aided-drug-design, Molecular dynamics simulation, Protein-protein interaction /
+Protein-Ligand interaction (Molecular docking ) , Sequence analysis and Structural
+bioinformatics, Motif and Structure prediction, Virology, Machine learning..
 
 
 Scientific Career
 -----------------
 
 Since 2020
-:   *Assistant Professor* at the Institute of Physics NCU (Toruń, Poland).
-
-2018-2020
-:   *Postdoc Researcher* at the Institute of Physics NCU (Toruń, Poland).
-
-2012-2015
-:   *Researcher* at the Research School of Biology, Division of Biomedical Science and Biochemistry
-    Australian National University, Australia, the group of [Prof. Ben Corry](https://biology.anu.edu.au/research/groups/corry-group-transport-proteins-and-computational-biophysics).
+:   *PhD student* in Physical Science (Biophysics ) at Nicolaus Copernicus University
+( Torun, Poland )
+Thesis : Computational studies of regulatory mechanism and inhibition of ferroptotic cell
+death signal
 
 
 Education
 ---------
 
-2010-2015
-:   *PhD in Physical Sciences* at the Faculty of Mathematics, Physics and Informatics, Gdańsk University (Gdańsk, Poland).
+2018-2020
+:   *M.Tech* in Computational Biology at Anna University, Chennai, Tamil Nadu, India 
+Thesis: In-silico studies on Nipah virus proteins and their host pathogen interaction studies.
 
-2012-2015
-:   *PhD in Biomedical Science and Biochemistry* at the Research School of Biology, Australian National University (Canberra, Australia).
+2014-2018  
+:   *B.Tech* in Pharmaceutical Technology at Anna University, Chennai, Tamil Nadu, India
+Thesis: In-silico docking studies on dengue protein (DEN 4) 
 
-    Thesis: [Interpreting Resonance Energy Transfer Experiments with Monte-Carlo and Molecular Dynamics Simulations](https://openresearch-repository.anu.edu.au/handle/1885/151534)
-
-2004-2009
-:   *MSc in Astronomy* at the Faculty of Physics, Astronomy and Informatics, NCU (Toruń, Poland).  
-    Thesis: [Correlation between the X-ray and gamma-ray emission of HBL type blazars ]
 
 Interests
 ---------
-
-Ukulele playing, kniting, sport climbing
+Exploring new things, Playing computer games, Cats, Music production ( Electronic Dance
+Music ), Cricket.
