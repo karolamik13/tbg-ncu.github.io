@@ -2,7 +2,7 @@
 layout: single
 title: ""
 author_profile: true
-permalink: /members/kws/
+permalink: /members/tm/
 toc: true
 sidebar:
   nav: members
