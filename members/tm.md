@@ -17,9 +17,9 @@ Contact
 :   Institute of Physics, Nicolaus Copernicus University  
     Grudziadzka 5, 87-100 Toruń, Poland  
     
-    E-mail: thiliban@doktorant.umk.pl, thilibanaussie@gmail.com
-    LinkedIn : Thiliban M
-    Github : ThilibanManivarma1997
+    E-mail: thiliban@doktorant.umk.pl, thilibanaussie@gmail.com  
+    LinkedIn : Thiliban M  
+    Github : ThilibanManivarma1997  
     Phone: ...  
     Office: ... 
 
