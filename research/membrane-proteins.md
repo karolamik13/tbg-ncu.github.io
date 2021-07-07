@@ -28,23 +28,16 @@ Figure 1. Computational model of PEBP1-lypoxygenase complex (PEBP1-15LOX, coordi
 6.	H. H. Dar, Y. Y. Tyurina, __K. Mikulska-Ruminska__, I. Shrivastava, H.-C. Ting, V. A. Tyurin, J. Krieger, C. M. St. Croix, S. Watkins, E. Bayir, G. Mao, C. R. Armbruster, A. Kapralov, H. Wang, M. R. Parsek, T. S. Anthonymuthu, A. F. Ogunsola, B. A. Flitter, C. J. Freedman, J. R. Gaston, T. R. Holman, J. M. Pilewski, J. S. Greenberger, R. K. Mallampalli, Y. Doi, J. S. Lee, I. Bahar, J. M. Bomberger, H. Bayır, and V. E. Kagan, J. Clin. Invest. 128, 4639-4653 (2018).
 
 <h3> G-protein coupled receptors and signal transduction </h3>
- ![alt tag](/assets/images/Komary.jpg)  
+
  Mosquitos are the primary vectors of diseases that affect roughly 700 million and kill a million people each year. Malaria remains a major killer of children under five years old, taking the life of a child every two minutes. Unfortunately, the most commonly used repellents (i.e. DEET) lose their activity as mosquitoes become resistant. Moreover, they are found to be neurotoxic for humans, especially for children. Therefore, there is a high need for new generation of mosquito repellents.
         G-protein coupled receptors (GPCRs) play a crucial role in signal transduction and are target of 30-50% of all modern drugs. These receptors play a key role in activity of both human and insect neuronal system. Recent studies indicate that one of repellents mode of action is modulation of GPCRs but the precise mechanism remains obscure.
         Using molecular dynamics and docking we investigate the conformational changes in GPCRs, in response to ligands binding. Knowing the molecular basis of these changes will facilitate finding compounds that would serve as selective malaria vectors repellents having no side effects in human.
+ ![alt tag](/assets/images/Komary.jpg)  
 
-    <style type="text/css">
-    .image-left {
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-      float: right;
-    }
-    </style>
 
 <h3> How does the ATP sensitive potassium channel work? </h3>
- ![alt tag](/assets/images/KATP.png){: .image-left } Human well-being depends on good health. The metabolism of 51 amino acid (aa) protein hormone insulin is an important factor in maintaining health. ATP-sensitive potassium channels (KATP) play a key role in insulin secretion from pancreatic beta-cells. They close in response to a change in the ATP/ADP ratio and stop the K- outflow, leading to insulin release. Normally this happens when the blood glucose revel rises. Malfunctioning of KATP leads to diabetes. Despite its enormous physiological role, the mechanism of closing/opening of KATP is not known yet. Fortunately, since 2017 the KATP structure is known. It is a huge complex (~8000aa) composed of four Kir6.2 subunits and four sulfonylurea receptor moieties. This discovery opens a way to model the KATP channel gating. The complexity of KATP system calls for methods able to monitor structural changes. A standard approach is molecular dynamics, it may help to understand “bold-and-nuts” of opening/closing KATP channels. By performing extensive computer modeling of the whole KATP complex we hope to move towards understanding mechanisms of the KATP channel gating, and developing better antidiabetic drugs.
-
+ Human well-being depends on good health. The metabolism of 51 amino acid (aa) protein hormone insulin is an important factor in maintaining health. ATP-sensitive potassium channels (KATP) play a key role in insulin secretion from pancreatic beta-cells. They close in response to a change in the ATP/ADP ratio and stop the K- outflow, leading to insulin release. Normally this happens when the blood glucose revel rises. Malfunctioning of KATP leads to diabetes. Despite its enormous physiological role, the mechanism of closing/opening of KATP is not known yet. Fortunately, since 2017 the KATP structure is known. It is a huge complex (~8000aa) composed of four Kir6.2 subunits and four sulfonylurea receptor moieties. This discovery opens a way to model the KATP channel gating. The complexity of KATP system calls for methods able to monitor structural changes. A standard approach is molecular dynamics, it may help to understand “bold-and-nuts” of opening/closing KATP channels. By performing extensive computer modeling of the whole KATP complex we hope to move towards understanding mechanisms of the KATP channel gating, and developing better antidiabetic drugs.
+ ![alt tag](/assets/images/KATP.png)
 
 __K. Walczewska-Szewc__, and __W. Nowak__  
 *Spacial models of malfunctioned protein complexes help to elucidate signal transduction critical for insulin release*
