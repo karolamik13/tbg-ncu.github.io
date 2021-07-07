@@ -8,7 +8,7 @@ feature_row:
   - image_path: /assets/images/protein.png
     alt: "md"
     title: "Proteins structure and dynamics"
-    excerpt: "blad as das sd  d"
+    #excerpt: "blad as das sd  d"
     url: "/research/membrane-proteins/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
