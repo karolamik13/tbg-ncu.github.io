@@ -8,7 +8,7 @@ sidebar:
   - nav: research
 ---
 
-
+<h1>Enzymes and receptors thermostability and activity</h1>
 Many biotechnologically important enzymes show low thermal stability. The thermostability of enzymes is crucial in exoenergetic reactions, where a lot of heat can be released and thus enzyme can lose activity. Sometimes bioreactors are specially heated to prevent the multiplication of unwanted microorganisms. In some cases of industrial enzymes activity is low or is too narrow or too wide toward the spectrum of substrates.
 
 ![NHase figure](/assets/images/NHase.jpg) 
