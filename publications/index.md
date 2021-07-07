@@ -9,6 +9,14 @@ sidebar:
   - nav: research
 ---
 
+## 2021  
+__K. Mikulska-Ruminska__, T. Anthonymuthu, A. Levkina, I. Shrivastava, A. Kapralov, H. Bayır, V. Kagan, I. Bahar, NO● represses the oxygenation of arachidonoyl PE by 15LOX/PEBP1: Mechanism and role in ferroptosis, Inter. J. Mol. Sci. 22 (2021) 5253.  
+
+W. Sun, V. Tyurin, __K. Mikulska-Ruminska__, I. Shrivastava,.., I. Bahar, H. Bayır, Y. Tyurina, R. He, V. Kagan, Phospholipase iPLA2β averts ferroptosis by eliminating a redox lipid death signal, Nature Chem. Biol. (2021) 1-12.  
+
+T. Anthonymuthu, Y. Tyurina, W. Sun, __K. Mikulska-Ruminska__, I. Shrivastava, V. Tyurin, F. Cinemre, H. Dar, A. VanDemark, T. Holman, Y. Sadovsky, B. Stockwell, R. He, I. Bahar, H. Bayır, V. Kagan, Resolving the paradox of ferroptotic cell death: Ferrostatin-1 binds to 15LOX/PEBP1 complex, suppresses generation of peroxidized ETE-PE, and protects against ferroptosis, Redox Biol. 38 (2021) 101744. 
+
+
 ## 2020
 __J. Rydzewski__, and O. Valsson  
 *Multiscale reweighted stochastic embedding (MRSE): Deep learning of collective variables for enhanced sampling*  
@@ -26,7 +34,11 @@ Comp. Phys. Commun. 247, 106865 (2020)
 __K. Walczewska-Szewc__, and __W. Nowak__  
 *Structural Determinants of Insulin Release: Disordered N-Terminal Tail of Kir6. 2 Affects Potassium Channel Dynamics through Interactions with Sulfonylurea Binding Region in a SUR1 Partner*  
 J. Phys. Chem. B 124, 6198 (2020)  
-[DOI](https://pubs.acs.org/doi/10.1021/acs.jpcb.0c02720){: .btn .btn--inverse .btn--small}
+[DOI](https://pubs.acs.org/doi/10.1021/acs.jpcb.0c02720){: .btn .btn--inverse .btn--small}  
+
+A. Kapralov, Q. Yang, H. Dar, Y. Tyurina, T. Anthonymuthu, R. Kim, C. Croix, __K. Mikulska-Ruminska__, B. Liu, I.  Shrivastava, V. Tyurin, H. Ting, Y. Gao, R. Domingues, D. Stoyanovsky, R. Mallampalli, I. Bahar, D. Gabrilovich, H. Bayir, V. Kagan, Redox Lipid Reprogramming Commands Susceptibility of Macrophages and Microglia to Ferroptotic Death, Nature Chem. Biol. 3 (2020) 278-290.
+
+
 
 ## 2019
 __J. Rydzewski__  
@@ -57,7 +69,9 @@ J. F. Carrascoza Mayén, __J. Rydzewski__, N. Szostak, J. Blazewicz, and __W. No
 *Prebiotic Soup Components Trapped in Montmorillonite Nanoclay Form New Molecules: Car-Parrinello Ab Initio Simulations*  
 Life 9, 46 (2019)  
 [Special Issue](https://www.mdpi.com/journal/life/special_issues/Prebiotic_Chemistry){: .btn .btn--inverse .btn--small}
-[DOI](https://doi.org/10.3390/life9020046){: .btn .btn--inverse .btn--small}
+[DOI](https://doi.org/10.3390/life9020046){: .btn .btn--inverse .btn--small}  
+
+__K. Mikulska-Ruminska__, I. Shrivastava, J. Krieger, S. Zhang, H. Li, H. Bayır, S. Wenzel, A. VanDemark, V. Kagan, I. Bahar, Characterization of Differential Dynamics, Specificity, and Allostery of Lipoxygenase Family Members, J. Chem. Inf. Model., 59 (2019) 2496-2508.
 
 ## 2018
 __J. Rydzewski__, R. Jakubowski, __W. Nowak__, and H. Grubmüller  
@@ -75,7 +89,13 @@ J. Chem. Phys. 148, 115101 (2018)
 __J. Rydzewski__, R. Jakubowski, G. Nicosia, and __W. Nowak__  
 *Conformational Sampling of a Biomolecular Rugged Energy Landscape*  
 IEEE/ACM Trans. Comput. Biol. Bioinformatics 15, 732 (2018)  
-[DOI](https://doi.org/10.1109/TCBB.2016.2634008){: .btn .btn--inverse .btn--small}
+[DOI](https://doi.org/10.1109/TCBB.2016.2634008){: .btn .btn--inverse .btn--small}  
+
+T. Anthonymuthu, E. Kenny, I. Shrivastava, Y. Tyurina, V. Tyurin, A. Nestorova, A. Amoscato, __K. Mikulska-Ruminska__, M. Conrad, et al., Empowerment of 15-LOX catalytic competence in selective oxidation of membrane AA-PE to ferroptotic death signals, HOO-AA-PE, JACS 140 (2018) 17835-17839.
+
+
+H. Dar, Y. Tyurina, __K. Mikulska-Ruminska__, I. Shrivastava, et al., Pseudomonas aeruginosa utilizes host polyunsaturated phosphatidylethanolamines to trigger theft-ferroptosis in bronchial epithelium, J. Clin. Invest. 128 (2018) 4639-4653.  
+
 
 ## 2017
 __J. Rydzewski__, and __W. Nowak__  
@@ -92,6 +112,8 @@ __J. Rydzewski__, and __W. Nowak__
 *Thermodynamics of Camphor Migration in Cytochrome P450cam by Atomistic Simulations*  
 Sci. Rep. 7, 7736 (2017)  
 [DOI](https://doi.org/10.1038/s41598-017-07993-0){: .btn .btn--inverse .btn--small}
+
+S. Wenzel, Y. Tyurina, J. Zhao, C. Croix, G Mao, V. Tyurin, T. Anthonymuthu, A. Kapralov, __K. Mikulska-Ruminska__, I. Shrivastava, ..., A. VanDemark, J. Kellum, Y. Minami, I. Bahar, H. Bayir, V. Kagan, PEBP1 Wardens Ferroptosis by Enabling Lipoxygenase Generation of Lipid Death Signals, CELL 171 (2017) 628-641.  
 
 ## 2016
 __J. Rydzewski__, and __W. Nowak__  
