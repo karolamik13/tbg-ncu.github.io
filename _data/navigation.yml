@@ -31,7 +31,7 @@ members:
 research:       
   - title: "Research"
     children:
-      - title: "Membrane proteins structure and dynamics "
+      - title: "Proteins structure and dynamics "
         url: /research/membrane-proteins/  
         
       - title: "Enhanced sampling"
