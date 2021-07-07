@@ -10,7 +10,7 @@ sidebar:
 
 M. Sc. Julia Berdychowska
 ===================
-![jb-avatar](/assets/images/jb.png# avatar)  
+![jb-avatar](/assets/images/jb.jpg# avatar)  
 Contact
 :   Institute of Physics, Nicolaus Copernicus University  
     Grudziadzka 5, 87-100 Toruń, Poland  
