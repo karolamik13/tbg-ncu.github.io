@@ -9,6 +9,10 @@ sidebar:
   - nav: research
 ---
 
+## 2022
+__K. Walczewska-Szewc__, __J. Rydzewski__, A. Lewkowicz, Inhibition-mediated changes in prolyl oligopeptidase dynamics possibly related to α-synuclein aggregation, Phys Chem Chem Phys, 24, 4366-4373 
+[DOI](https://doi.org/10.1039/D1CP05238A){: .btn .btn--inverse .btn--small}
+
 ## 2021  
 __K. Mikulska-Ruminska__, T. Anthonymuthu, A. Levkina, I. Shrivastava, A. Kapralov, H. Bayır, V. Kagan, I. Bahar, NO● represses the oxygenation of arachidonoyl PE by 15LOX/PEBP1: Mechanism and role in ferroptosis, Inter. J. Mol. Sci. 22 (2021) 5253.  
 
