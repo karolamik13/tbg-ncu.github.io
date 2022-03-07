@@ -11,7 +11,6 @@ sidebar:
 
 ## 2022
 __K. Walczewska-Szewc__, __J. Rydzewski__, A. Lewkowicz, Inhibition-mediated changes in prolyl oligopeptidase dynamics possibly related to α-synuclein aggregation, Phys Chem Chem Phys, 24, 4366-4373 
-
 [DOI](https://doi.org/10.1039/D1CP05238A){: .btn .btn--inverse .btn--small}
 
 ## 2021  
@@ -25,7 +24,6 @@ __K. Walczewska-Szewc__, __W. Nowak__, Photo-Switchable Sulfonylureas Binding to
 [DOI](https://doi.org/10.1021/acs.jpcb.1c07292){: .btn .btn--inverse .btn--small}
 
 J. Grzyb, __K.Walczewska-Szewc__, J. Sławski, M. Trojnar, Quantum dot clusters as self-assembled antennae with phycocyanine and phycobilisomes as energy acceptors, Phys Chem Chem Phys, 23 (42) 24505-24517
-
 [DOI](https://doi.org/10.1039/D1CP03347F){: .btn .btn--inverse .btn--small}
 
 
