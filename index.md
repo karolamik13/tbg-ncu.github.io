@@ -26,13 +26,6 @@ feature_row:
     url: "/research/thermostability/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/diffusion.png
-    alt: "md"
-    title: "Ligands diffusion"
-    #excerpt: "blad as das sd  d"
-    url: "/research/ligand-diffusion/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
   - image_path: /assets/images/photoswitch.png
     alt: "md"
     title: "Photoisomerization and Photo-switchable drugs"
