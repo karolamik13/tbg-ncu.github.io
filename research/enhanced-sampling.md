@@ -9,3 +9,7 @@ sidebar:
 ---
 
 ### Enhanced sampling
+
+<h2>Enchanced sampling techniques</h2>
+
+<h2>Ligand Diffusion</h2>
