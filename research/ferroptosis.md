@@ -1,16 +1,14 @@
 ---
 layout: single
 title: ""
-permalink: /research/membrane-proteins/
+permalink: /research/ferroptosis/
 author_profile: true
 sidebar:
   - nav: members
   - nav: research
 ---
 
-<h1>Proteins and their function</h1>
-
-<h2>Ferroptosis and programmed cell death</h2>
+<h1>Ferroptosis and programmed cell death</h1>
 
 Ferroptosis is a recently discovered form of cell death, different from better known apoptosis or necrosis. Ferroptosis characteristic feature is increasing level of lipid peroxides where free radicals take electrons from the lipids causing the cell damage. Ferroptosis was identified as the mechanism of cell death in Parkinson and Huntington’s diseases, and sepsis. It plays a critical role in the treatment of cancers, and may contribute to the degradation of tissue in brain trauma, kidney diseases and asthma. 
 Dr. Karolina Mikulska-Ruminska investigates with US collaborators the process of ferroptosis.Explanation of ferroptosis at the molecular level using computational methods and its experimental verification is essential for developing new drugs and treatment methods. We are using a wide range of computational and bioinformatics methods such as all-atom and coarse-grained molecular dynamics, molecular docking, homology modeling, elastic network models (GNM, ANM), phylogenetic analysis and more to better understand this process.
