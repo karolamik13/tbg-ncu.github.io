@@ -40,7 +40,7 @@ feature_row:
     url: "/research/antico/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/fusion-medical-animation-npjP0dCtoxo-unsplash.jpg
+  - image_path: /assets/images/ferroptoza_kafelek.png
     alt: "md"
     title: "Ferroptosis"
     #excerpt: "blad as dassd  d"
