@@ -20,6 +20,10 @@ Group Members
 [Dr. Karolina Mikulska-Rumińska](kmr)  
 [Dr. Katarzyna Walczewska-Szewc](kws)  
 [Dr. Jakub Rydzewski](jr)  
+[Dr. Janusz Strzelecki](js)
+
+PhD Candidates:
+
 [Beata Niklas](bn)  
 [Julia Berdychowska](jb)  
 [Sylwia Czach](sc)  
