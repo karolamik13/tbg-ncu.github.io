@@ -14,7 +14,7 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /assets/images/sampling.png
     alt: "md"
-    title: "Enhanced sampling"
+    title: "Methods: Enhanced sampling"
     #excerpt: "blad as das sd  d"
     url: "/research/enhanced-sampling/"
     btn_class: "btn--primary"
