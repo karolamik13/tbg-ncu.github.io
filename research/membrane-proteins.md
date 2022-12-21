@@ -42,7 +42,11 @@ __K. Walczewska-Szewc__, __J. Rydzewski__, A. Lewkowicz, Inhibition-mediated cha
  ![alt tag](/assets/images/Komary.jpg)  
 
 
-
+<h2> Nanomechanics of synaptic proteins <h2>
+  
+<h2> Hydrogen bond in alpha-helices <h2>
+  
+<h2> P2X7 as a promising target in therapy of glioma <h2>
 
 
 
