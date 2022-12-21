@@ -47,6 +47,14 @@ feature_row:
     url: "/research/ferroptosis/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+  - image_path: /assets/images/janusz_kafelek.png
+    alt: "md"
+    title: "AFM biomechanics"
+    #excerpt: "blad as dassd  d"
+    url: "/research/afm/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+    
 ---
 
 {% include feature_row %}
