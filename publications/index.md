@@ -6,24 +6,35 @@ toc: true
 author_profile: true
 sidebar:
   - nav: members
-  - nav: research
 ---
 
 ## 2022
-__K. Walczewska-Szewc__, __J. Rydzewski__, A. Lewkowicz, Inhibition-mediated changes in prolyl oligopeptidase dynamics possibly related to α-synuclein aggregation, Phys Chem Chem Phys, 24, 4366-4373 
+__K. Walczewska-Szewc__, __J. Rydzewski__, A. Lewkowicz  
+*Inhibition-mediated changes in prolyl oligopeptidase dynamics possibly related to α-synuclein aggregation*  
+Phys Chem Chem Phys, 24, 4366-4373 (2022)  
 [DOI](https://doi.org/10.1039/D1CP05238A){: .btn .btn--inverse .btn--small}
 
 ## 2021  
-__K. Mikulska-Ruminska__, T. Anthonymuthu, A. Levkina, I. Shrivastava, A. Kapralov, H. Bayır, V. Kagan, I. Bahar, NO● represses the oxygenation of arachidonoyl PE by 15LOX/PEBP1: Mechanism and role in ferroptosis, Inter. J. Mol. Sci. 22 (2021) 5253.  
+__K. Mikulska-Ruminska__, T. Anthonymuthu, A. Levkina, I. Shrivastava, A. Kapralov, H. Bayır, V. Kagan, I. Bahar  
+*NO● represses the oxygenation of arachidonoyl PE by 15LOX/PEBP1: Mechanism and role in ferroptosis*  
+Inter. J. Mol. Sci. 22, 5253 (2021)  
 
-W. Sun, V. Tyurin, __K. Mikulska-Ruminska__, I. Shrivastava,.., I. Bahar, H. Bayır, Y. Tyurina, R. He, V. Kagan, Phospholipase iPLA2β averts ferroptosis by eliminating a redox lipid death signal, Nature Chem. Biol. (2021) 1-12.  
+W. Sun, V. Tyurin, __K. Mikulska-Ruminska__, I. Shrivastava, ... , I. Bahar, H. Bayır, Y. Tyurina, R. He, V. Kagan  
+*Phospholipase iPLA2β averts ferroptosis by eliminating a redox lipid death signal*  
+Nature Chem. Biol. 1, 12 (2021)  
 
-T. Anthonymuthu, Y. Tyurina, W. Sun, __K. Mikulska-Ruminska__, I. Shrivastava, V. Tyurin, F. Cinemre, H. Dar, A. VanDemark, T. Holman, Y. Sadovsky, B. Stockwell, R. He, I. Bahar, H. Bayır, V. Kagan, Resolving the paradox of ferroptotic cell death: Ferrostatin-1 binds to 15LOX/PEBP1 complex, suppresses generation of peroxidized ETE-PE, and protects against ferroptosis, Redox Biol. 38 (2021) 101744. 
+T. Anthonymuthu, Y. Tyurina, W. Sun, __K. Mikulska-Ruminska__, I. Shrivastava, V. Tyurin, F. Cinemre, H. Dar, A. VanDemark, T. Holman, Y. Sadovsky, B. Stockwell, R. He, I. Bahar, H. Bayır, V. Kagan  
+*Resolving the paradox of ferroptotic cell death: Ferrostatin-1 binds to 15LOX/PEBP1 complex, suppresses generation of peroxidized ETE-PE, and protects against ferroptosis*  
+Redox Biol. 38, 101744 (2021)  
 
-__K. Walczewska-Szewc__, __W. Nowak__, Photo-Switchable Sulfonylureas Binding to ATP-Sensitive Potassium Channel Reveal the Mechanism of Light-Controlled Insulin Release, J. Phys. Chem. B 125 (48), 13111-13121
+__K. Walczewska-Szewc__, __W. Nowak__  
+*Photo-Switchable Sulfonylureas Binding to ATP-Sensitive Potassium Channel Reveal the Mechanism of Light-Controlled Insulin Release*  
+J. Phys. Chem. B 125, 13111-13121 (2021)  
 [DOI](https://doi.org/10.1021/acs.jpcb.1c07292){: .btn .btn--inverse .btn--small}
 
-J. Grzyb, __K.Walczewska-Szewc__, J. Sławski, M. Trojnar, Quantum dot clusters as self-assembled antennae with phycocyanine and phycobilisomes as energy acceptors, Phys Chem Chem Phys, 23 (42) 24505-24517
+J. Grzyb, __K.Walczewska-Szewc__, J. Sławski, M. Trojnar  
+*Quantum dot clusters as self-assembled antennae with phycocyanine and phycobilisomes as energy acceptors*   
+Phys Chem Chem Phys, 23, 24505-24517 (2021)  
 [DOI](https://doi.org/10.1039/D1CP03347F){: .btn .btn--inverse .btn--small}
 
 
@@ -46,8 +57,9 @@ __K. Walczewska-Szewc__, and __W. Nowak__
 J. Phys. Chem. B 124, 6198 (2020)  
 [DOI](https://pubs.acs.org/doi/10.1021/acs.jpcb.0c02720){: .btn .btn--inverse .btn--small}  
 
-A. Kapralov, Q. Yang, H. Dar, Y. Tyurina, T. Anthonymuthu, R. Kim, C. Croix, __K. Mikulska-Ruminska__, B. Liu, I.  Shrivastava, V. Tyurin, H. Ting, Y. Gao, R. Domingues, D. Stoyanovsky, R. Mallampalli, I. Bahar, D. Gabrilovich, H. Bayir, V. Kagan, Redox Lipid Reprogramming Commands Susceptibility of Macrophages and Microglia to Ferroptotic Death, Nature Chem. Biol. 3 (2020) 278-290.
-
+A. Kapralov, Q. Yang, H. Dar, Y. Tyurina, T. Anthonymuthu, R. Kim, C. Croix, __K. Mikulska-Ruminska__, B. Liu, I.  Shrivastava, V. Tyurin, H. Ting, Y. Gao, R. Domingues, D. Stoyanovsky, R. Mallampalli, I. Bahar, D. Gabrilovich, H. Bayir, V. Kagan  
+*Redox Lipid Reprogramming Commands Susceptibility of Macrophages and Microglia to Ferroptotic Death*  
+Nature Chem. Biol. 3, 278-290 (2020)  
 
 
 ## 2019
