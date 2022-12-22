@@ -29,6 +29,17 @@ PhD Candidates:
 [Sylwia Czach](sc)  
 [Thiliban Manivarma](tm)  
 
+Former Group Members
+--------
+
+
+Dr. Marcin Dąbrowski  
+Dr. Bartosz Dobrzelecki  
+Dr. Anna Gogolińska  
+Dr. Rafał Jakubowski  
+Dr Karina Kubiak-Ossowska  
+Dr Przemysław Miszta  
+Dr. Sławomir Orłowski  
 
 Openings
 --------
@@ -47,14 +58,3 @@ For PhD students
 For students
 :     We welcome all Bachelor and Master students who want to work on a research project in our group.  
 
-Former Group Members
---------
-
-
-Dr. Marcin Dąbrowski
-Dr. Bartosz Dobrzelecki
-Dr. Anna Gogolińska 
-Dr. Rafał Jakubowski
-Dr Karina Kubiak-Ossowska
-Dr Przemysław Miszta
-Dr. Sławomir Orłowski
