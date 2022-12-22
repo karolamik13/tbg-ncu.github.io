@@ -8,21 +8,16 @@ sidebar:
   - nav: members
   - nav: research
 ---
-Group Leader
---------
-
-[Prof. Wiesław Nowak](wn)  
 
 Group Members
 --------
 
+[Prof. Wiesław Nowak](wn)  
 [Dr. Łukasz Pepłowski](lp)  
 [Dr. Karolina Mikulska-Rumińska](kmr)  
 [Dr. Katarzyna Walczewska-Szewc](kws)  
 [Dr. Jakub Rydzewski](jr)  
 [Dr. Janusz Strzelecki](js)
-
-PhD Candidates:
 
 [Beata Niklas](bn)  
 [Julia Berdychowska](jb)  
@@ -31,7 +26,6 @@ PhD Candidates:
 
 Former Group Members
 --------
-
 
 Dr. Marcin Dąbrowski  
 Dr. Bartosz Dobrzelecki  
