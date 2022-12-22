@@ -15,8 +15,8 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /assets/images/sampling.png
     alt: "md"
-    title: "Methods: Enhanced sampling"
-    url: "/research/enhanced-sampling/"
+    title: "Methods"
+    url: "/research/methods/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/enzymes.png
