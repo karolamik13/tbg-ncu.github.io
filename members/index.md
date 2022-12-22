@@ -6,7 +6,6 @@ toc: true
 author_profile: true
 sidebar:
   - nav: members
-  - nav: research
 ---
 
 Group Members
