@@ -17,12 +17,12 @@ Contact
 :   Institute of Physics, Nicolaus Copernicus University  
     Grudziadzka 5, 87-100 Toruń, Poland  
 
-    E-mail: jr@fizyka.umk.pl, jakubrydzewski@pm.me  
+    E-mail: jr@fizyka.umk.pl   
     Phone: +48 56 611 3346  
     Office: 573  
 
 Web Page
-:   [Rydzewski Group](https://jakryd.github.io/)
+:   [Page](https://jakryd.github.io/)
 
 Scientific Interests
 :   Statistical mechanics, enhanced/importance sampling, machine learning.
@@ -59,10 +59,3 @@ Education
   
     Thesis: [*Rare-Event Sampling of Ligand Transport in 
     Proteins*](/assets/pubs/Rydzewski_2018_PhD.pdf)
-
-
-Interests
----------
-
-Literature
-:   William Gaddis, Thomas Pynchon
