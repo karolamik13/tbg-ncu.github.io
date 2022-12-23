@@ -44,7 +44,8 @@ feature_row:
     url: "/research/ferroptosis/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/janusz_kafelek.png
+  - image_path: /assets/images/ferroptoza_kafelek.png
+#  - image_path: /assets/images/janusz_kafelek.png
     alt: "md"
     title: "Atomic Force Microscopy"
     url: "/research/afm/"

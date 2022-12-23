@@ -55,7 +55,7 @@ Since 2009
 Education
 ---------
 
-2014-2018
+2004-2008
 :   *PhD in Physics* at the Faculty of Physics Astronomy and Informatics, NCU (Toruń, Poland).
   
     Thesis: Molecular dynamics and Bioinformatics Study of enzymatic reactions mechanism – nitrile hydratase case    
