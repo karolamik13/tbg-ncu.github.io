@@ -79,9 +79,6 @@ author:
     - label: "Institute of Physics, NCU"
       icon: "fas fa-fw fa-link"
       url: "https://www.ifiz.umk.pl/en/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ncu-theoretical-biophysics-group"
 
 
 # Reading Files
