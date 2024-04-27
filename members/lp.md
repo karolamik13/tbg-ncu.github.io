@@ -8,7 +8,7 @@ sidebar:
   nav: members
 ---
 
-Dr. Łukasz Pepłowski
+Dr. hab. Łukasz Pepłowski, Prof. NCU
 ===================
 
 ![lp-avatar](/assets/images/lp.png# avatar)
@@ -27,7 +27,10 @@ Scientific Interests
 Scientific Career
 -----------------
 
-Since 2009  
+Since 2023  
+:   *Professor NCU*, Institute of Physics NCU (Toruń, Poland).  
+
+2009-2023  
 :   *Assistant Professor* at the Institute of Physics NCU (Toruń, Poland).  
 
 2008-2009  
@@ -54,6 +57,10 @@ Since 2009
 
 Education
 ---------
+
+
+2023  
+:   *DSc (Doctor Habilitatus) of Natural Science in Physical Sciences*
 
 2004-2008
 :   *PhD in Physics* at the Faculty of Physics Astronomy and Informatics, NCU (Toruń, Poland).

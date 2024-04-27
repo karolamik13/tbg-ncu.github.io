@@ -8,7 +8,7 @@ sidebar:
   nav: members
 ---
 
-Dr. Karolina Mikulska-Rumińska
+Dr. hab. Karolina Mikulska-Rumińska, Prof. UMK
 ===================
 
 ![kmr-avatar](/assets/images/kmr.png# avatar)
@@ -22,12 +22,15 @@ Contact
     Office: 482  
 
 Scientific Interests
-:   Protein structure and dynamics (molecular dynamics), protein-protein and protein-lipid interactions (molecular docking), elastic network models, allostery, atomic force microscopy and nanomechanics.
+:   Protein structure and dynamics (molecular dynamics), ferroptosis, protein-protein and protein-lipid interactions, docking, elastic network models, allostery, atomic force microscopy and nanomechanics.
 
 Scientific Career
 -----------------
 
-Since 2019  
+Since 2023  
+:   *Professor NCU*, Institute of Physics NCU (Toruń, Poland).  
+
+2019-2023  
 :   *Assistant Professor* at the Institute of Physics NCU (Toruń, Poland).  
 
 2016-2018  
@@ -46,6 +49,11 @@ Since 2019
 Education
 ---------
 
+2023  
+:   *DSc (Doctor Habilitatus) of Natural Science in Physical Sciences* (honors)
+x  
+    Thesis: Deciphering molecular machinery, physical interactions, signal transduction, and inhibition of the ferroptosis process  
+
 2009-2014  
 :   *PhD in Biophysics* (honors) at the Institue of Physics NCU (Toruń, Poland).
   
@@ -62,4 +70,4 @@ Education
 Interests
 ---------
 
-Skiing, music (singing, playing the guitar), cooking   
+drawing, music (singing, playing instruments)
